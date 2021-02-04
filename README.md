@@ -12,7 +12,7 @@ and so many other things happening around Backstage.
 - Backstage Community Sessions
   - Monthly meetup organized by Backstage core team with contributors.
   - [Archives, notes and videos](backstage-community-sessions)
-  - [Google calendar](TODO)
+  - [Google calendar](https://calendar.google.com/calendar/embed?src=c_qup9gbhn9sqpuao6trttd8mk5s@group.calendar.google.com)
 
 ## Newsletters
 
