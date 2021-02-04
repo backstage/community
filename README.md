@@ -2,17 +2,18 @@
 
 Welcome to the [Backstage](https://github.com/backstage/backstage) community!
 
-INSERT SOME IMAGE
-
 Here you will find ways to engage with the community - with meetups, talks, podcasts, newsletters,
 and so many other things happening around Backstage.
 
 ## Meetups
 
-- Backstage Community Sessions
-  - Monthly meetup organized by Backstage core team with contributors.
-  - [Archives, notes and videos](backstage-community-sessions)
-  - [Google calendar](https://calendar.google.com/calendar/embed?src=c_qup9gbhn9sqpuao6trttd8mk5s@group.calendar.google.com)
+1. Backstage Community Sessions, hosted by Spotify
+
+![Poster](/backstage-community-sessions/assets/Backstage%20Community%20Sessions.png)
+
+- Monthly meetup organized by Backstage core team with contributors.
+- [Archives, notes and videos](backstage-community-sessions)
+- [Google calendar](https://calendar.google.com/calendar/embed?src=c_qup9gbhn9sqpuao6trttd8mk5s@group.calendar.google.com)
 
 ## Newsletters
 
@@ -39,4 +40,4 @@ and so many other things happening around Backstage.
 - [Build better developer portals with Spotify’s Backstage](https://blog.logrocket.com/better-developer-portals-spotify-backstage/)
 - [Fk-covid: A Kubernetes Bundle for Inferencing COVID X-Rays with Machine Learning](https://www.weave.works/blog/firekube-covid-ml)
 
-You are welcome to add new links here! "Watch" the repository for any future updates with Issues and Pull Requests.
+You are welcome to add new links here! "Watch" the repository for any future updates.
