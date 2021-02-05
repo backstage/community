@@ -6,13 +6,13 @@ Here you will find ways to engage with the community — join meetups, sign up f
 
 ## Meetups
 
-1. Backstage Community Sessions, hosted by Spotify
+Backstage Community Sessions, hosted by Spotify
 
 ![Poster](/backstage-community-sessions/assets/Backstage%20Community%20Sessions.png)
 
-- Monthly meetup organized by Backstage core team with contributors.
-- [Archives, notes and videos](backstage-community-sessions)
-- [Google calendar](https://calendar.google.com/calendar/embed?src=c_qup9gbhn9sqpuao6trttd8mk5s@group.calendar.google.com)
+- Join monthly meetups organized by Backstage core team and contributors
+- [View upcoming agendas, notes, and archives](backstage-community-sessions)
+- [View Google calendar](https://calendar.google.com/calendar/embed?src=c_qup9gbhn9sqpuao6trttd8mk5s@group.calendar.google.com)(Click + to add)
 
 ## Newsletters
 
