@@ -12,7 +12,7 @@ Backstage Community Sessions, hosted by Spotify
 
 - Join monthly meetups organized by Backstage core team and contributors
 - [View upcoming agendas, notes, and archives](backstage-community-sessions)
-- [View Google calendar](https://calendar.google.com/calendar/embed?src=c_qup9gbhn9sqpuao6trttd8mk5s@group.calendar.google.com)(Click + to add)
+- [View Google calendar](https://calendar.google.com/calendar/embed?src=c_qup9gbhn9sqpuao6trttd8mk5s@group.calendar.google.com) (Click + to add)
 
 ## Newsletters
 
