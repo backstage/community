@@ -2,7 +2,9 @@
 
 Welcome to the [Backstage](https://github.com/backstage/backstage) community!
 
-Here you will find ways to engage with the community — join meetups, sign up for newsletters, catch up on podcasts, talks, and so many other things happening around Backstage. For support or more immediate technical discussions, join us in [Discord](https://discord.gg/MUpMjP2).
+Here you will find ways to engage with the community — join meetups, sign up for newsletters, catch up on podcasts, talks, and so many other things happening around Backstage. 
+
+For support or more immediate technical discussions, join us in [Discord](https://discord.gg/MUpMjP2).
 
 ## Meetups
 
