@@ -2,7 +2,7 @@
 
 Welcome to the [Backstage](https://github.com/backstage/backstage) community!
 
-Here you will find ways to engage with the community — join meetups, sign up for newsletters, catch up on podcasts, talks, and so many other things happening around Backstage.
+Here you will find ways to engage with the community — join meetups, sign up for newsletters, catch up on podcasts, talks, and so many other things happening around Backstage. For support or more immediate technical discussions, join us in [Discord](https://discord.gg/MUpMjP2).
 
 ## Meetups
 
@@ -10,7 +10,7 @@ Backstage Community Sessions, hosted by Spotify
 
 ![Poster](/backstage-community-sessions/assets/Backstage%20Community%20Sessions.png)
 
-- Join monthly meetups organized by Backstage core team and contributors
+- Join monthly meetups organized by the Backstage core team and contributors
 - [View upcoming agendas, notes, and archives](backstage-community-sessions)
 - [View Google calendar](https://calendar.google.com/calendar/embed?src=c_qup9gbhn9sqpuao6trttd8mk5s@group.calendar.google.com) (Click + to add)
 
