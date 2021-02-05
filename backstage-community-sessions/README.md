@@ -20,4 +20,4 @@ Meeting Video - TBD
 
 Notes - TBD
 
-GitHub Issue - https://github.com/backstage/community/issues/2
+Agenda and more details - https://github.com/backstage/community/issues/2
