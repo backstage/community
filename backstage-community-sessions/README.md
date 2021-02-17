@@ -13,6 +13,7 @@ Monthly meetup organized by Backstage core team with contributors.
 
 Attendees -
 
+- Jacob Valdemar, @JacobValdemar, [Lunar](https://github.com/lunarway)
 - Name, @GitHubUserName, Company
 - Name, @GitHubUserName, Company
 
