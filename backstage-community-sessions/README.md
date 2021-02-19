@@ -9,6 +9,10 @@ Monthly meetup organized by Backstage core team with contributors.
   - Google Calendar: Use this email address `c_qup9gbhn9sqpuao6trttd8mk5s@group.calendar.google.com` to [subscribe](https://support.google.com/calendar/answer/37100?co=GENIE.Platform%3DDesktop&hl=en#zippy=%2Cadd-using-an-email-address).
   - iCal format: Use `https://calendar.google.com/calendar/ical/c_qup9gbhn9sqpuao6trttd8mk5s%40group.calendar.google.com/public/basic.ics` for other applications.
 
+## Mar 17, 2021
+
+See details and propose agendas - https://github.com/backstage/community/issues/7
+
 ## Feb 17, 2021
 
 Recording - https://www.youtube.com/watch?v=4-VX9tDdJYY
