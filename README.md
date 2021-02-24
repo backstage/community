@@ -34,6 +34,7 @@ Backstage Community Sessions, hosted by Spotify
 
 ## Blogs
 
+- [Design a Better Kubernetes Experience for Developers - The New Stack](https://thenewstack.io/design-a-better-kubernetes-experience-for-developers/)
 - [Maximizing Developer Effectiveness - martinfowler.com](https://martinfowler.com/articles/developer-effectiveness.html)
 - [Showcase - Material-UI](https://material-ui.com/discover-more/showcase/)
 - [Backstage and TechDocs - docslikecode.com](https://www.docslikecode.com/articles/ten-tips-maintaining-long-term-docs-like-code)
