@@ -23,6 +23,7 @@ Backstage Community Sessions, hosted by Spotify
 
 ## Podcasts
 
+- [The Kubelist Podcast, Episode #11: Backstage with Lee Mills and Matt Clarke of Spotify](https://www.heavybit.com/library/podcasts/the-kubelist-podcast/ep-11-backstage-with-lee-mills-and-matt-clarke-of-spotify/)
 - [Kubernetes Podcast from Google, Episode 136: Backstage Kubernetes](https://kubernetespodcast.com/episode/136-backstage/)
 - [Software Engineering Daily: "Backstage: Spotify Developer Portals"](https://softwareengineeringdaily.com/2020/11/19/backstage-spotify-developer-portals-with-stefan-alund/)
 - [Technology Radar, Vol. 23](https://www.youtube.com/watch?v=CUTSnAutoAM&t=1176)
@@ -30,6 +31,7 @@ Backstage Community Sessions, hosted by Spotify
 
 ## Talks
 
+- [Reddit AMA on r/kubernetes](https://www.reddit.com/r/kubernetes/comments/lwb31v/were_the_engineers_rethinking_kubernetes_at/)
 - [All Things Open 2020](https://www.youtube.com/watch?v=3FR0G0XRDMA)
 
 ## Blogs
