@@ -36,6 +36,7 @@ Backstage Community Sessions, hosted by Spotify
 
 ## Blogs
 
+- [How Spotify Leverages Paved Paths and Common Tooling to Improve Productivity - InfoQ](https://www.infoq.com/news/2021/03/spotify-paved-paths/)
 - [Design a Better Kubernetes Experience for Developers - The New Stack](https://thenewstack.io/design-a-better-kubernetes-experience-for-developers/)
 - [Maximizing Developer Effectiveness - martinfowler.com](https://martinfowler.com/articles/developer-effectiveness.html)
 - [Showcase - Material-UI](https://material-ui.com/discover-more/showcase/)
