@@ -8,13 +8,17 @@ For support or more immediate technical discussions, join us in [Discord](https:
 
 ## Meetups
 
-Backstage Community Sessions, hosted by Spotify
+**Backstage Community Sessions, hosted by Spotify**
 
 ![Poster](/backstage-community-sessions/assets/Backstage%20Community%20Sessions.png)
 
 - Join monthly meetups organized by the Backstage core team and contributors
 - [View upcoming agendas, notes, and archives](backstage-community-sessions)
 - [View Google calendar](https://calendar.google.com/calendar/embed?src=c_qup9gbhn9sqpuao6trttd8mk5s@group.calendar.google.com) (Click + to add)
+
+**Backstage Open Mic, hosted by Frontside**
+
+[Open Mic](https://backstage-openmic.com/) is a monthly get-together of users sharing their experiences working with Backstage in their teams and insights about the ecosystem's plugins. 
 
 ## Newsletters
 
