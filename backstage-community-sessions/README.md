@@ -9,9 +9,45 @@ Monthly meetup organized by Backstage core team with contributors.
   - Google Calendar: Use this email address `c_qup9gbhn9sqpuao6trttd8mk5s@group.calendar.google.com` to [subscribe](https://support.google.com/calendar/answer/37100?co=GENIE.Platform%3DDesktop&hl=en#zippy=%2Cadd-using-an-email-address).
   - iCal format: Use `https://calendar.google.com/calendar/ical/c_qup9gbhn9sqpuao6trttd8mk5s%40group.calendar.google.com/public/basic.ics` for other applications.
 
+## Apr 21, 2021
+
+See details and propose agendas - https://github.com/backstage/community/issues/14
+
 ## Mar 17, 2021
 
-See details and propose agendas - https://github.com/backstage/community/issues/7
+Recording - https://www.youtube.com/watch?v=rRphwXeq33Q
+
+Minutes of the meeting
+
+- Go through the issue with proposed agendas by the community - https://github.com/backstage/community/issues/7
+- Tyson Singer (VP, Head of Spotify Platform) shares Spotify's open source approach and journey
+- Q: If the Backstage open source is different from internal code base, is there a plan on replacing the internal one?
+- Q: Do you have any plans on increasing/reducing the investment (headcount, etc) on Backstage? What about monetizing?
+- Q: What are some risks/concerns to consider when a company is thinking about adopting Backstage?
+- Q: Is there a plan at Spotify to use Backstage as a way to provide APIs to external entities?
+- Expedia group share their journey with Backstage Adoption.
+- Q: The project is moving at a high pace 🚀 is there anything community can do to help you (the maintainers) to make your life easier?
+- Tips and tricks of contributing to Backstage (multiple people sharing their personal views).
+- Updates and/or discussions on some of the major RFC in progress.
+
+About 85+ people joined the meetup. A partial list of attendees -
+
+- @adamdmharvey, DXC Technology
+- @andrewthauer, Andrew Thauer, Wealthsimple
+- @Bennie2000, Bennie Johnston, Just Eat Takeaway
+- @chagretes, dti
+- @danielcrisap, Daniel Cristian,
+- @dhenneke, Dominik Henneke, SDA SE
+- @errskipower, Emily Roth, Wayfair
+- @Fox32, Oliver Sand, SDA SE
+- @JacobValdemar, Jacob Valdemar, Lunar
+- @lindgren, Erik Lindgren, Expedia Group
+- @OrkoHunter, Himanshu Mishra, Spotify
+- @petejespersqbe, Pete Jespers, QBE
+- @robburger, Rob Burger, OfferZen
+- @rustynail86, Russ Nell, Kohl's Inc/Infra & Ops
+- @samwiskow
+- @vaimo-magnus, Vaimo
 
 ## Feb 17, 2021
 
@@ -19,8 +55,8 @@ Recording - https://www.youtube.com/watch?v=4-VX9tDdJYY
 
 Minutes of the meeting
 
+- Go through the issue with proposed agendas by the community - https://github.com/backstage/community/issues/2
 - Meet the Backstage Maintainers and Sponsors
-- Go through [the issue with agendas](https://github.com/backstage/community/issues/2) proposed by the community
 - How to promote Backstage within your organization
 - How does Backstage avoid the wiki problem - everything is in the wiki, hard to find relevant information
 - How do you keep consistent UI with many other teams contributing plugins
