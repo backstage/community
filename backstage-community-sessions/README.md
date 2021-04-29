@@ -9,9 +9,28 @@ Monthly meetup organized by Backstage core team with contributors.
   - Google Calendar: Use this email address `c_qup9gbhn9sqpuao6trttd8mk5s@group.calendar.google.com` to [subscribe](https://support.google.com/calendar/answer/37100?co=GENIE.Platform%3DDesktop&hl=en#zippy=%2Cadd-using-an-email-address).
   - iCal format: Use `https://calendar.google.com/calendar/ical/c_qup9gbhn9sqpuao6trttd8mk5s%40group.calendar.google.com/public/basic.ics` for other applications.
 
+## May 19, 2021
+
+See details and propose topics to discuss - https://github.com/backstage/community/issues/16
+
 ## Apr 21, 2021
 
-See details and propose agendas - https://github.com/backstage/community/issues/14
+Recording - https://www.youtube.com/watch?v=6sg5uMCLxTA
+
+Minutes of the meeting
+
+- Issue used for topics to discuss - https://github.com/backstage/community/issues/14
+
+In our third official community meetup, online fashion platform Zalando shared what they learned on their journey to adopting Backstage. Watch to find out how a small internal team went from proof-of-concept to building a platform serving thousands of developers, including:
+
+- Why Zalando decided to move away from their existing developer console and migrated to Backstage instead
+- The value of providing your developers with one, centralized place for tooling, information, and resources
+- The beauty of types and TypeScript
+- The joys of being part of an open source community (bugs fixed before you even have time to report them!)
+- The advantages of providing a platform that is composable, has shareable components, and is easy to build for
+- The importance of taking a “trust-first” approach to collaboration
+
+Thanks for the great presentation, Govind ([@GoWind](https://github.com/GoWind))!
 
 ## Mar 17, 2021
 
