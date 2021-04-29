@@ -40,6 +40,10 @@ For support or more immediate technical discussions, join us in [Discord](https:
 
 ## Blogs
 
+- [Shifting cost optimisation left: Spotify Backstage Cost Insights - RedMonk](https://redmonk.com/jgovernor/2021/04/28/shifting-cost-optimisation-left-spotify-backstage-cost-insights/)
+  - [A RedMonk Conversation: Shifting cost optimisation left: Spotify Backstage Cost Insights](https://redmonk.com/videos/a-redmonk-conversation-shifting-cost-optimisation-left-spotify-backstage-cost-insights/) (video)
+  - [What is cloud cost optimization? How to manage cloud costs with Spotify Backstage](https://redmonk.com/videos/what-is-cloud-cost-optimization-how-to-manage-cloud-costs-with-spotify-backstage/) (video)
+- [Technology Radar, Vol. 24: Platforms](https://assets.thoughtworks.com/assets/technology-radar-vol-24-en.pdf), [Backstage blip - ThoughtWorks](https://www.thoughtworks.com/radar/platforms?blipid=202010066)
 - [Optimizing micro-feedback loops in engineering - LeadDev](https://leaddev.com/productivity-eng-velocity/optimizing-micro-feedback-loops-engineering)
 - [Backstage integration with the Snyk API - Snyk Blog](https://snyk.io/blog/backstage-integration-with-the-snyk-api/)
 - [How Spotify Leverages Paved Paths and Common Tooling to Improve Productivity - InfoQ](https://www.infoq.com/news/2021/03/spotify-paved-paths/)
