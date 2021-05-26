@@ -38,6 +38,10 @@ For support or more immediate technical discussions, join us in [Discord](https:
 - [Reddit AMA on r/kubernetes](https://www.reddit.com/r/kubernetes/comments/lwb31v/were_the_engineers_rethinking_kubernetes_at/)
 - [All Things Open 2020](https://www.youtube.com/watch?v=3FR0G0XRDMA)
 
+## Case Studies
+
+- [Expedia Group MVP](https://roadie.io/case-studies/expedia-group-backstage-mvp/) - How Expedia Group defined their Backstage vision and success metrics and built a Backstage MVP to satisfy them.
+
 ## Blogs
 
 - [Shifting cost optimisation left: Spotify Backstage Cost Insights - RedMonk](https://redmonk.com/jgovernor/2021/04/28/shifting-cost-optimisation-left-spotify-backstage-cost-insights/)
