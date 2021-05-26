@@ -9,9 +9,30 @@ Monthly meetup organized by Backstage core team with contributors.
   - Google Calendar: Use this email address `c_qup9gbhn9sqpuao6trttd8mk5s@group.calendar.google.com` to [subscribe](https://support.google.com/calendar/answer/37100?co=GENIE.Platform%3DDesktop&hl=en#zippy=%2Cadd-using-an-email-address).
   - iCal format: Use `https://calendar.google.com/calendar/ical/c_qup9gbhn9sqpuao6trttd8mk5s%40group.calendar.google.com/public/basic.ics` for other applications.
 
+## Jun 16, 2021
+
+- See details and propose topics to discuss - https://github.com/backstage/community/issues/20
+
 ## May 19, 2021
 
-See details and propose topics to discuss - https://github.com/backstage/community/issues/16
+Recording - https://www.youtube.com/watch?v=UZTVjv-AvZA
+
+Minutes of the meeting
+
+- Issue used for topics to discuss - https://github.com/backstage/community/issues/16
+- Spotify won the CNCF Top End User Award. Thanks to the Backstage community. [Read more](https://www.cncf.io/announcements/2021/05/05/cloud-native-computing-foundation-grants-spotify-the-top-end-user-award/)
+- TELUS Digial and ThoughtWorks share their Backstage adoption journey for their 8,000 engineers. They call their portal Simple — and it’s a beauty. Highlights:
+  - The team envisions their portal as “the go-to place to find answers about development and delivery at TELUS, from getting to your first commit to reaching the right person, API, or tool.”
+  - It will provide “self-serve onboarding for new team members and a one-stop shop for technical documentation.”
+  - It will “enable reuse and findability for all their developers,” and allow developers to “create, manage, and evolve the technical health of everything they build.”
+  - Backstage didn’t just allow TELUS to integrate their technology into the portal, but also their brand’s look and feel.
+  - Material-UI and React components allowed the team to align with brand standards to present a seamless TELUS experience for their devs.
+  - They built a custom plugin for Contentful, allowing them to incorporate the CMS they were already using.
+  - Along with Contentful, they also integrated GitHub and Swiftype to create a unique TechDocs-like experience.
+  - Anyone can write docs where and how they want — but now all that documentation is centralized and discoverable behind Backstage’s “single pane of glass.”
+- Maintainers shared the work they have been doing on Software Catalog, to make it production ready by handling large scale deployments. Hear more from Johan ([@jhaals](https://github.com/jhaals)) and Fredrik ([@freben](https://github.com/freben)) in the recording.
+- Raghu ([@soapraj](https://github.com/soapraj)), EM@Spotify gave a demo of the new Backstage homepage inside Spotify.
+- Further questions and discussions from the community.
 
 ## Apr 21, 2021
 
