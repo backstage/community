@@ -9,9 +9,24 @@ Monthly meetup organized by Backstage core team with contributors.
   - Google Calendar: Use this email address `c_qup9gbhn9sqpuao6trttd8mk5s@group.calendar.google.com` to [subscribe](https://support.google.com/calendar/answer/37100?co=GENIE.Platform%3DDesktop&hl=en#zippy=%2Cadd-using-an-email-address).
   - iCal format: Use `https://calendar.google.com/calendar/ical/c_qup9gbhn9sqpuao6trttd8mk5s%40group.calendar.google.com/public/basic.ics` for other applications.
 
+## Jul 21, 2021
+
+See details and propose topics to discuss - https://github.com/backstage/community/issues/22
+
 ## Jun 16, 2021
 
-- See details and propose topics to discuss - https://github.com/backstage/community/issues/20
+Recording - https://www.youtube.com/watch?v=Z78FFaObTfk
+
+Minutes of the meeting
+
+- Issue used for topics to discuss - https://github.com/backstage/community/issues/20
+- [Emma](https://github.com/emmaindal) and [Eric](https://github.com/iameap) introduce an all-new version of Backstage Search! It’s more than just a box you type into — it’s a mini platform all by itself. https://backstage.io/blog/2021/06/24/announcing-backstage-search-platform
+- A live demo of integrating Stackoverflow Questions and Answers into Backstage Search. And it worked! Live demo ghosts were asleep.
+- [Austin Lamon](https://www.linkedin.com/in/austinlamon/) shares what Spotify is investing in next for Backstage. https://backstage.io/blog/2021/06/22/spotify-backstage-is-growing
+- A new website to help companies adopt Backstage https://backstage.spotify.com !
+- Separate community sessions for adopters and contributors
+- Introducing reviewers role https://github.com/backstage/backstage/blob/master/GOVERNANCE.md#reviewers
+- Further Q&A with the community
 
 ## May 19, 2021
 
