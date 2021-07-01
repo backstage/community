@@ -57,6 +57,7 @@ For support or more immediate technical discussions, join us in [Discord](https:
 - [Backstage integration with the Snyk API - Snyk Blog](https://snyk.io/blog/backstage-integration-with-the-snyk-api/)
 - [Happy Birthday, Backstage: Spotify’s Biggest Open Source Project Grows Up Fast - Spotify Engineering](https://engineering.atspotify.com/2021/03/16/happy-birthday-backstage-spotifys-biggest-open-source-project-grows-up-fast/)
 - [How Spotify Leverages Paved Paths and Common Tooling to Improve Productivity - InfoQ](https://www.infoq.com/news/2021/03/spotify-paved-paths/)
+- [Designing a Better Kubernetes Experience for Developers - Spotify Engineering](https://engineering.atspotify.com/2021/03/01/designing-a-better-kubernetes-experience-for-developers/)
 - [Design a Better Kubernetes Experience for Developers - The New Stack](https://thenewstack.io/design-a-better-kubernetes-experience-for-developers/)
 - [Maximizing Developer Effectiveness - martinfowler.com](https://martinfowler.com/articles/developer-effectiveness.html)
 - [Showcase - Material-UI](https://material-ui.com/discover-more/showcase/)
