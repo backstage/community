@@ -48,6 +48,7 @@ For support or more immediate technical discussions, join us in [Discord](https:
 
 ## Blogs
 
+- [How 5 companies got their developers to care about cloud costs - InfoWorld](https://www.infoworld.com/article/3623709/how-5-companies-got-their-developers-to-care-about-cloud-costs.html)
 - [A Product Story: The Lessons of Backstage and Spotify’s Autonomous Culture - Spotify Engineering](https://engineering.atspotify.com/2021/05/18/a-product-story-the-lessons-of-backstage-and-spotifys-autonomous-culture/)
 - [Shifting cost optimisation left: Spotify Backstage Cost Insights - RedMonk](https://redmonk.com/jgovernor/2021/04/28/shifting-cost-optimisation-left-spotify-backstage-cost-insights/)
   - [A RedMonk Conversation: Shifting cost optimisation left: Spotify Backstage Cost Insights](https://redmonk.com/videos/a-redmonk-conversation-shifting-cost-optimisation-left-spotify-backstage-cost-insights/) (video)
