@@ -10,6 +10,8 @@ For support or more immediate technical discussions, join us in [Discord](https:
 
 **Backstage Community Sessions, hosted by Spotify**
 
+> The next session is on Wednesday, July 21. [Click here](https://github.com/backstage/community/issues/22) for more details.
+
 ![Poster](/backstage-community-sessions/assets/Backstage%20Community%20Sessions.png)
 
 - Join monthly meetups organized by the Backstage core team and contributors
