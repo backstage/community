@@ -9,9 +9,23 @@ Monthly meetup organized by Backstage core team with contributors.
   - Google Calendar: Use this email address `c_qup9gbhn9sqpuao6trttd8mk5s@group.calendar.google.com` to [subscribe](https://support.google.com/calendar/answer/37100?co=GENIE.Platform%3DDesktop&hl=en#zippy=%2Cadd-using-an-email-address).
   - iCal format: Use `https://calendar.google.com/calendar/ical/c_qup9gbhn9sqpuao6trttd8mk5s%40group.calendar.google.com/public/basic.ics` for other applications.
 
+## Aug 18, 2021
+
+See details and propose topics to discuss - https://github.com/backstage/community/issues/28
+
 ## Jul 21, 2021
 
-See details and propose topics to discuss - https://github.com/backstage/community/issues/22
+Recording - https://www.youtube.com/watch?v=3dV3aZo6JN8
+
+Minutes of the meeting
+
+- Our sixth official meetup is a special summer edition — with over 80 members of the community taking time out from backyards, patios, beaches, and idyllic Swedish summer cabins to dig deep into the latest Backstage features and updates.
+- The new product roadmap is here! See what features and improvements the team is prioritizing this quarter. Feedbacks are welcome!
+- [Mike](https://github.com/mtlewis) and [Himanshu](https://github.com/orkohunter) from Spotify walked through Scaffolder templating engine improvements.
+- [Ruben](https://github.com/rubenLindstrom) from Spotify talked about composable homepages, including a live coding demo.
+- Pallavi and Heather from [Splunk](https://www.splunk.com) gave us a peek into their Backstage portal. Internally known as “Pink Phonebook” — a uniquely branded name isn’t the only way the team customized Backstage to fit their engineering and tech culture.
+- We celebrate standout contributions with our first Contributor Spotlight. (Spoiler alert: Congratulations, Dominik Henneke [@dhenneke](https://github.com/dhenneke)!)
+- And finally, Q&A with the Backstage team about Golden Paths and more.
 
 ## Jun 16, 2021
 
