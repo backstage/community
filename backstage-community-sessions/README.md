@@ -9,9 +9,25 @@ Monthly meetup organized by Backstage core team with contributors.
   - Google Calendar: Use this email address `c_qup9gbhn9sqpuao6trttd8mk5s@group.calendar.google.com` to [subscribe](https://support.google.com/calendar/answer/37100?co=GENIE.Platform%3DDesktop&hl=en#zippy=%2Cadd-using-an-email-address).
   - iCal format: Use `https://calendar.google.com/calendar/ical/c_qup9gbhn9sqpuao6trttd8mk5s%40group.calendar.google.com/public/basic.ics` for other applications.
 
+## Sep 15, 2021
+
+See details and propose topics to discuss - https://github.com/backstage/community/issues/30
+
 ## Aug 18, 2021
 
-See details and propose topics to discuss - https://github.com/backstage/community/issues/28
+Recording - https://www.youtube.com/watch?v=9_f7hMHAZqY
+
+Minutes of the meeting
+
+- Our seventh official meetup is jam-packed with new faces and new features.
+- Backstage maintainers tidy up and close out some RFCs.
+- Then, we hear about all the latest additions to Backstage Search. When we released the new and improved Backstage Search platform, it shipped with Lunr as the default search engine. Since then, the community has been busy adding support for two more search engine options for you to choose from:
+  - PostgreSQL-based search: SDA SE presents their database-backed approach to search, which features simple setup and short boot times.
+  - Elasticsearch: Roadie.io demos this highly requested and popular search option, which gives you greater scalability and better query language options.
+- Plus, the return of Splunk — and even more demos!
+- AWS S3 URL Reader: Splunk extends support for reading from AWS buckets in Backstage.
+- XCMetrics plugin (https://xcmetrics.io): Spotify demos a dashboard tool that parses your team’s XCode build logs in order to track build times, error rates, and other productivity insights.
+- And, of course, plenty of Q&A , including a discussion about the various methods for incorporating diagrams in TechDocs (iframes, PlantUML, GraphViz, Draw.io), where to find a list of currently supported TechDocs plugins and extensions, ideas for Backstage tutorials, and thoughts on how to track how much time people spend on a page inside Backstage.
 
 ## Jul 21, 2021
 
