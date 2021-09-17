@@ -46,10 +46,13 @@ For support or more immediate technical discussions, join us in [Discord](https:
 
 ## Case Studies
 
+- [American Airlines Runway](https://www.youtube.com/watch?v=kZFdHmM5-7M) - CantonCoders: The Developer Experience @ American Airlines driven by Spotify Backstage
 - [Expedia Group MVP](https://roadie.io/case-studies/expedia-group-backstage-mvp/) - How Expedia Group defined their Backstage vision and success metrics and built a Backstage MVP to satisfy them.
 
 ## Blogs
 
+- [A Developer's Perspective: Lessons from Open Source with FireHydrant and Backstage - FireHydrant.io](https://firehydrant.io/blog/a-developers-perspective-lessons-from-open-source/)
+- [Integrating Backstage at DAZN - DAZN Engineering](https://medium.com/dazn-tech/integrating-backstage-at-dazn-b8ef5268b347)
 - [How 5 companies got their developers to care about cloud costs - InfoWorld](https://www.infoworld.com/article/3623709/how-5-companies-got-their-developers-to-care-about-cloud-costs.html)
 - [A Product Story: The Lessons of Backstage and Spotify’s Autonomous Culture - Spotify Engineering](https://engineering.atspotify.com/2021/05/18/a-product-story-the-lessons-of-backstage-and-spotifys-autonomous-culture/)
 - [Shifting cost optimisation left: Spotify Backstage Cost Insights - RedMonk](https://redmonk.com/jgovernor/2021/04/28/shifting-cost-optimisation-left-spotify-backstage-cost-insights/)
