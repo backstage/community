@@ -52,6 +52,7 @@ For support or more immediate technical discussions, join us in [Discord](https:
 
 ## Blogs
 
+- [Relieve Developers' churn in your Cloud Native strategy with Backstage](https://frontside.com/blog/2021-05-14-avoid-cloud-native-churn-with-backstage/)
 - [Building a Developer Portal with Backstage - SDA SE (Part 1)](https://medium.com/sda-se/building-a-developer-portal-with-backstage-part-1-c4602ee59260) / [Part 2](https://medium.com/sda-se/building-a-developer-portal-with-backstage-part-2-99537068f4ed)
 - [A Developer's Perspective: Lessons from Open Source with FireHydrant and Backstage - FireHydrant.io](https://firehydrant.io/blog/a-developers-perspective-lessons-from-open-source/)
 - [Integrating Backstage at DAZN - DAZN Engineering](https://medium.com/dazn-tech/integrating-backstage-at-dazn-b8ef5268b347)
