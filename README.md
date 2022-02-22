@@ -19,9 +19,9 @@ For support or more immediate technical discussions, join us in [Discord](https:
 - [View upcoming agendas, notes, and archives](backstage-community-sessions)
 - [View Google calendar](https://calendar.google.com/calendar/embed?src=c_qup9gbhn9sqpuao6trttd8mk5s@group.calendar.google.com) (Click + to add)
 
-**Backstage Open Mic, hosted by Frontside**
+**Backstage Users Unconference, hosted by Roadie and Frontside**
 
-[Open Mic](https://backstage-openmic.com/) is a monthly get-together of users sharing their experiences working with Backstage in their teams and insights about the ecosystem's plugins.
+[Backstage Users Unconference](https://hopin.com/events/backstage-users-unconference-mar-22) is a quarterly get-together of users sharing their experiences working with Backstage in their teams and insights about the ecosystem's plugins. Show up and suggest topics on the day.
 
 ## Newsletters
 
@@ -49,9 +49,11 @@ For support or more immediate technical discussions, join us in [Discord](https:
 
 - [American Airlines Runway](https://www.youtube.com/watch?v=kZFdHmM5-7M) - CantonCoders: The Developer Experience @ American Airlines driven by Spotify Backstage
 - [Expedia Group MVP](https://roadie.io/case-studies/expedia-group-backstage-mvp/) - How Expedia Group defined their Backstage vision and success metrics and built a Backstage MVP to satisfy them.
+- [Lunar Bank](https://roadie.io/case-studies/lunar-backstage-adoption/) - Adopting Backstage into a 40 person engineering team.
 
 ## Blogs
 
+- [Backstage by Spotify - The Ultimate Guide](https://roadie.io/backstage-spotify/)
 - [Relieve Developers' churn in your Cloud Native strategy with Backstage](https://frontside.com/blog/2021-05-14-avoid-cloud-native-churn-with-backstage/)
 - [Building a Developer Portal with Backstage - SDA SE (Part 1)](https://medium.com/sda-se/building-a-developer-portal-with-backstage-part-1-c4602ee59260) / [Part 2](https://medium.com/sda-se/building-a-developer-portal-with-backstage-part-2-99537068f4ed)
 - [A Developer's Perspective: Lessons from Open Source with FireHydrant and Backstage - FireHydrant.io](https://firehydrant.io/blog/a-developers-perspective-lessons-from-open-source/)
