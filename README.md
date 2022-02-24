@@ -10,7 +10,7 @@ For support or more immediate technical discussions, join us in [Discord](https:
 
 **Backstage Community Sessions, hosted by Spotify**
 
-> The next session is on January 19th (Adopters track) and 26th (Contributors track). [Click here](https://github.com/backstage/community/issues/37) for more details.
+> The next session is on March 16th (Adopters track) and 23rd (Contributors track). [Click here](https://github.com/backstage/community/issues/41) for more details.
 
 <!-- Waiting for poster -->
 <!-- ![Poster](https://user-images.githubusercontent.com/8065913/142976156-471e4dbd-0ffb-4fea-8647-b485f95af413.png) -->
