@@ -30,6 +30,10 @@ For support or more immediate technical discussions, join us in [Discord](https:
 
 ## Podcasts
 
+- [NerdOut@Spotify](https://open.spotify.com/show/5eXZwvvxt3K2dxha3BSaAe) - Backstage miniseries
+  - [Episode 01: What is Backstage?](https://open.spotify.com/episode/43cbJh4ccRD7lzM2730YK3)
+  - [Episode 02: Open Issues](https://open.spotify.com/episode/332yTwGiILGKTS7dsHCj2P)
+  - [Episode 03: Community Builders](https://open.spotify.com/episode/3JdT4c2IazDDBsuGGf0sOE)
 - [ThoughtWorks: "Making developer effectiveness a reality"](https://www.thoughtworks.com/podcasts/developer-effectiveness)
 - [Spotify: A Product Story, Episode 08: “When to build vs buy — and when to open source”](https://open.spotify.com/episode/7iuQ3ew1Wwpuiq6LbBKzCl)
 - [The Kubelist Podcast, Episode #11: "Backstage with Lee Mills and Matt Clarke of Spotify"](https://www.heavybit.com/library/podcasts/the-kubelist-podcast/ep-11-backstage-with-lee-mills-and-matt-clarke-of-spotify/)
@@ -47,13 +51,15 @@ For support or more immediate technical discussions, join us in [Discord](https:
 
 ## Case Studies
 
-- [American Airlines Runway](https://www.youtube.com/watch?v=kZFdHmM5-7M) - CantonCoders: The Developer Experience @ American Airlines driven by Spotify Backstage
+- [American Airlines Runway, Part 1](https://www.youtube.com/watch?v=kZFdHmM5-7M) / [Part 2](https://www.youtube.com/watch?v=I2uEhK0T8MY) - CantonCoders: The Developer Experience @ American Airlines driven by Spotify Backstage
 - [Expedia Group MVP](https://roadie.io/case-studies/expedia-group-backstage-mvp/) - How Expedia Group defined their Backstage vision and success metrics and built a Backstage MVP to satisfy them.
 - [Lunar Bank](https://roadie.io/case-studies/lunar-backstage-adoption/) - Adopting Backstage into a 40 person engineering team.
 
 ## Blogs
 
+- [Backstage Adoption at Brex - Brex Tech Blog](https://medium.com/brexeng/backstage-adoption-at-brex-b415e0e7d3a6)
 - [Backstage by Spotify - The Ultimate Guide](https://roadie.io/backstage-spotify/)
+- [How we are improving developer experience at QuintoAndar with backstage.io - QuintoAndar Tech Blog](https://medium.com/quintoandar-tech-blog/how-we-are-improving-developer-experience-at-quintoandar-with-backstage-io-fa1ab70b75cb)
 - [Relieve Developers' churn in your Cloud Native strategy with Backstage](https://frontside.com/blog/2021-05-14-avoid-cloud-native-churn-with-backstage/)
 - [Building a Developer Portal with Backstage - SDA SE (Part 1)](https://medium.com/sda-se/building-a-developer-portal-with-backstage-part-1-c4602ee59260) / [Part 2](https://medium.com/sda-se/building-a-developer-portal-with-backstage-part-2-99537068f4ed)
 - [A Developer's Perspective: Lessons from Open Source with FireHydrant and Backstage - FireHydrant.io](https://firehydrant.io/blog/a-developers-perspective-lessons-from-open-source/)
