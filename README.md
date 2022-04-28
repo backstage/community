@@ -34,6 +34,7 @@ For support or more immediate technical discussions, join us in [Discord](https:
   - [Episode 01: What is Backstage?](https://open.spotify.com/episode/43cbJh4ccRD7lzM2730YK3)
   - [Episode 02: Open Issues](https://open.spotify.com/episode/332yTwGiILGKTS7dsHCj2P)
   - [Episode 03: Community Builders](https://open.spotify.com/episode/3JdT4c2IazDDBsuGGf0sOE)
+  - [Episode 04: Backstage in the Wild](https://open.spotify.com/episode/3du4xUEwjKIj87F2NO8jNl) (featuring Netflix and American Airlines)
 - [ThoughtWorks: "Making developer effectiveness a reality"](https://www.thoughtworks.com/podcasts/developer-effectiveness)
 - [Spotify: A Product Story, Episode 08: “When to build vs buy — and when to open source”](https://open.spotify.com/episode/7iuQ3ew1Wwpuiq6LbBKzCl)
 - [The Kubelist Podcast, Episode #11: "Backstage with Lee Mills and Matt Clarke of Spotify"](https://www.heavybit.com/library/podcasts/the-kubelist-podcast/ep-11-backstage-with-lee-mills-and-matt-clarke-of-spotify/)
