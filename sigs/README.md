@@ -22,4 +22,4 @@ We are currently in the process of introducing SIGs (May 2022) and want to start
 
 ### Can I start a new SIG?
 
-SIGs come with a fair bit of overhead and we would like to be very deliberate when introducing new SIGs as the concept is new and we’re actively iterating. It’s probably a better idea to request a specific channel on discord but feel free to reach out to a maintainer if you have more questions.
+SIGs come with a fair bit of overhead and we would like to be very deliberate when introducing new SIGs as the concept is new and we’re actively iterating. It’s probably a better idea to request a specific channel on Discord but feel free to reach out to a maintainer if you have more questions.
