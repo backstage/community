@@ -1,10 +1,10 @@
 # SIG Catalog
 
-SIG Catalog covers all aspects of the systems and components related to the Software Catalog. This includes its backend service and corresponding frontend, including their APIs and extension points, as well as the System Entity Model.
+The Catalog SIG (Special Interest Group) covers all aspects of the systems and components related to the Software Catalog. This includes its backend service and related packages, as well as the corresponding frontend and related packages. Additionally this includes all of their relevant APIs and extension points, and the System Entity Model.
 
 ## Meetings
 
-SIG Catalog(biweekly), 16.00 Europe/Stockholm time [Convert to your time zone](https://dateful.com/convert/stockholm-sweden?t=16)
+SIG Catalog (biweekly), as 16.00 hours (4 pm) Europe/Stockholm time. [Convert to your time zone](https://dateful.com/convert/stockholm-sweden?t=16)
 
 - [Meeting Link](#TODO)
 - [Meeting Notes](#TODO) - Suggest topics for the next meeting here
@@ -13,18 +13,16 @@ SIG Catalog(biweekly), 16.00 Europe/Stockholm time [Convert to your time zone](h
   - Highlight significant changes or pull requests
   - Cover discussion points raised in the meeting notes doc. 5 minutes per topic with a quick vote for continued discussion
   - Open floor if there is time to spare
-
-See [Google Calendar](#TODO) for upcoming meetings.
+ - See the [Backstage Community sessions](https://calendar.google.com/calendar/u/0?cid=Y19xdXA5Z2JobjlzcXB1YW82dHJ0dGQ4bWs1c0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t) Google Calendar for upcoming meetings.
 
 ## Contact
 
-Discord: #sig-catalog
-
-GitHub Team: @backstage/sig-catalog
+- Discord: [#sig-catalog](#TODO)
+- GitHub Team: [@backstage/sig-catalog](https://github.com/orgs/backstage/teams/sig-catalog)
 
 ## Leadership
 
-The SIG Catalog team is composed of
+The SIG Catalog team is composed of:
 
 ### Organizers
 
