@@ -12,7 +12,7 @@ SIG Catalog (biweekly), at 16.00 hours (4 pm) Europe/Stockholm time [(convert to
 
 ## Contact
 
-- Discord: [#sig-catalog](#TODO)
+- Discord: [#catalog](https://discord.com/channels/687207715902193673/923144214580191282)
 - GitHub Team: [@backstage/sig-catalog](https://github.com/orgs/backstage/teams/sig-catalog)
 
 ## Leadership
