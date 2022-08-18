@@ -84,6 +84,6 @@ Checkout [backstage.io/on-demand](https://backstage.io/on-demand) for the latest
 - [Fk-covid: A Kubernetes Bundle for Inferencing COVID X-Rays with Machine Learning - Weaveworks](https://www.weave.works/blog/firekube-covid-ml)
 - [How we use Backstage at Spotify - Spotify Engineering](https://engineering.atspotify.com/2020/04/21/how-we-use-backstage-at-spotify/)
 - [What the Heck is Backstage Anyway - Spotify Engineering](https://engineering.atspotify.com/2020/03/17/what-the-heck-is-backstage-anyway/)
-- [Combining Incident Management and Service Catalogs](https://rootly.com/changelog/2022-06-23-backstage-integration/)
+- [Combining Incident Management and Service Catalogs - Rootly](https://rootly.com/changelog/2022-06-23-backstage-integration/)
 
 You are welcome to add new links here! "Watch" the repository for any future updates.
