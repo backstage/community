@@ -25,7 +25,7 @@ Checkout [backstage.io/on-demand](https://backstage.io/on-demand) for the latest
 
 ## Newsletters
 
-- [Official newsletter by Spotify](https://mailchi.mp/spotify/backstage-community)
+- [Official newsletter by Spotify](https://info.backstage.spotify.com/newsletter_subscribe)
 - [Backstage Weekly by Roadie.io](https://roadie.io/backstage-weekly/)
 
 ## Podcasts
