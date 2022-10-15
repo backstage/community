@@ -30,6 +30,7 @@ Checkout [backstage.io/on-demand](https://backstage.io/on-demand) for the latest
 
 ## Podcasts
 
+- [The Stack Overflow Podcast: Hypergrowth headaches (Ep. 485)](https://stackoverflow.blog/2022/09/16/hypergrowth-headaches-ep-485/)
 - [NerdOut@Spotify](https://open.spotify.com/show/5eXZwvvxt3K2dxha3BSaAe) - Backstage miniseries
   - [Episode 01: What is Backstage?](https://open.spotify.com/episode/43cbJh4ccRD7lzM2730YK3)
   - [Episode 02: Open Issues](https://open.spotify.com/episode/332yTwGiILGKTS7dsHCj2P)
@@ -45,6 +46,7 @@ Checkout [backstage.io/on-demand](https://backstage.io/on-demand) for the latest
 
 ## Talks
 
+- [Stack Overflow Webinar: Using developer portals to enhance developer happiness (and productivity)](https://resources.stackoverflow.co/topic/productivity-tips/backstage-internal-developer-portal-webinar/)
 - [Productivity Engineering Silicon Valley: "Developer Portals and Platforms" Panel Discussion with Spotify, Lyft, PayPal, and Netflix](https://www.youtube.com/watch?v=ajN9-dWSVYs)
 - [KubeCon + CloudNativeCon Europe 2021](https://kccnceu2021.sched.com/event/iE4G/techdocs-unlocking-the-potential-of-engineers-collective-knowledge-emma-indal-spotify): ["TechDocs: Unlocking the Potential of Engineers' Collective Knowledge"](https://youtu.be/aIURaocR5D8) (video)
 - [Reddit AMA on r/kubernetes](https://www.reddit.com/r/kubernetes/comments/lwb31v/were_the_engineers_rethinking_kubernetes_at/)
@@ -58,6 +60,8 @@ Checkout [backstage.io/on-demand](https://backstage.io/on-demand) for the latest
 
 ## Blogs
 
+- [I spent two years trying to do what Backstage does for free - Stack Overflow Blog](https://stackoverflow.blog/2022/09/19/i-spent-two-years-trying-to-do-what-backstage-does-for-free/)
+- [Combining Incident Management and Service Catalogs - Rootly](https://rootly.com/changelog/2022-06-23-backstage-integration/)
 - [Runway - The Developer Experience Product @ American Airlines](https://tech.aa.com/2021-12-21-runway-pt1/)
 - [Backstage Adoption at Brex - Brex Tech Blog](https://medium.com/brexeng/backstage-adoption-at-brex-b415e0e7d3a6)
 - [Backstage by Spotify - The Ultimate Guide](https://roadie.io/backstage-spotify/)
@@ -84,6 +88,5 @@ Checkout [backstage.io/on-demand](https://backstage.io/on-demand) for the latest
 - [Fk-covid: A Kubernetes Bundle for Inferencing COVID X-Rays with Machine Learning - Weaveworks](https://www.weave.works/blog/firekube-covid-ml)
 - [How we use Backstage at Spotify - Spotify Engineering](https://engineering.atspotify.com/2020/04/21/how-we-use-backstage-at-spotify/)
 - [What the Heck is Backstage Anyway - Spotify Engineering](https://engineering.atspotify.com/2020/03/17/what-the-heck-is-backstage-anyway/)
-- [Combining Incident Management and Service Catalogs - Rootly](https://rootly.com/changelog/2022-06-23-backstage-integration/)
 
 You are welcome to add new links here! "Watch" the repository for any future updates.
