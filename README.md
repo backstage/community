@@ -43,6 +43,7 @@ Checkout [backstage.io/on-demand](https://backstage.io/on-demand) for the latest
 - [Software Engineering Daily: "Backstage: Spotify Developer Portals"](https://softwareengineeringdaily.com/2020/11/19/backstage-spotify-developer-portals-with-stefan-alund/)
 - [Technology Radar, Vol. 23](https://www.youtube.com/watch?v=CUTSnAutoAM&t=1176)
 - [Changelog, Episode 415: "Spotify's open platform for shipping at scale"](https://changelog.com/podcast/415)
+- [QuintoCast: "Tornando a Engenharia do QuintoAndar navegável"](https://open.spotify.com/episode/5VUnjZGGIHBqiD8HHKHyd0?si=adcc7b390dbf45ef) (PT-BR)
 
 ## Talks
 
@@ -51,6 +52,7 @@ Checkout [backstage.io/on-demand](https://backstage.io/on-demand) for the latest
 - [KubeCon + CloudNativeCon Europe 2021](https://kccnceu2021.sched.com/event/iE4G/techdocs-unlocking-the-potential-of-engineers-collective-knowledge-emma-indal-spotify): ["TechDocs: Unlocking the Potential of Engineers' Collective Knowledge"](https://youtu.be/aIURaocR5D8) (video)
 - [Reddit AMA on r/kubernetes](https://www.reddit.com/r/kubernetes/comments/lwb31v/were_the_engineers_rethinking_kubernetes_at/)
 - [All Things Open 2020: "Backstage.io: Spotify's platform developer experience"](https://www.youtube.com/watch?v=3FR0G0XRDMA)
+- [QuintoAndar Tech Talks: "Como desenvolvemos o developer portal usando o Backstage.io"](https://www.youtube.com/watch?v=Y57gUwb1v3g) (PT-BR)
 
 ## Case Studies
 
@@ -88,5 +90,6 @@ Checkout [backstage.io/on-demand](https://backstage.io/on-demand) for the latest
 - [Fk-covid: A Kubernetes Bundle for Inferencing COVID X-Rays with Machine Learning - Weaveworks](https://www.weave.works/blog/firekube-covid-ml)
 - [How we use Backstage at Spotify - Spotify Engineering](https://engineering.atspotify.com/2020/04/21/how-we-use-backstage-at-spotify/)
 - [What the Heck is Backstage Anyway - Spotify Engineering](https://engineering.atspotify.com/2020/03/17/what-the-heck-is-backstage-anyway/)
+- [Muito prazer, Backstage.io uma nova forma de criar portais para times de desenvolvimento](https://medium.com/@_gdantas/muito-prazer-backstage-io-uma-nova-forma-de-criar-portais-para-times-de-desenvolvimento-3a4c744c85ca) (PT-BR)
 
 You are welcome to add new links here! "Watch" the repository for any future updates.
