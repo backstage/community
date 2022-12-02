@@ -41,5 +41,5 @@ The scope of this SIG is not only (but also) about the features of the product, 
 ### I have questions related to the adoption, is this the right place where to receive support?
 No, this is a group interested in improving the adoption experience. For any question related to the adoption of Backstage you can contact the community in the [dedicated channel in Discord](https://discord.gg/backstage-687207715902193673).
 
-### My organization is experiencing a challenge or a paipoint in adoption Backstage, how can I let you know about it?
+### My organization is experiencing a challenge or a painpoint in adoption Backstage, how can I let you know about it?
 This is what this group would like to hear from you (about the main challenges and painpoints in adoption). Please fill [this form](https://forms.gle/RLNBpi51rbqY6uqR7) and you will help us in having a better experience.
