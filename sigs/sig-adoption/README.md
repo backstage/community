@@ -1,6 +1,6 @@
 # SIG Adoption
 
-The Adoption Catalog Special Interest Group (SIG) covers all aspects of the adoption journey of Backstage. This includes feature sets as well as documentation or tutorials and everything related to the improvement of the adoption path from discovery and awareness, to POCing and evaluation, to deployment, internal evangelization and values.
+The Adoption Special Interest Group (SIG) covers all aspects of the adoption journey of Backstage. This includes features as well as documentation and tutorials. It covers everything related to the improvement of the adoption path all the way from discovery and awareness, to PoCs and evaluation, deployment, and to internal evangelization and values.
 
 ## Meetings
 
