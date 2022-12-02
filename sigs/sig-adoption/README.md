@@ -32,7 +32,7 @@ Other roles will be introduced once the SIG is established.
 
 ## Scope
 
-This SIG is an open space to discuss the enhancements that the overall community propose to improve the adoption of the platform in the organizations.
+This SIG is an open space to discuss the enhancements proposed by the community that aim to improve the adoption of Backstage in all organizations.
 
 The scope of this SIG is not only (but also) about the features of the product, but it is also about documentation, tutorials and content in general helping the companies in their journey.
 
