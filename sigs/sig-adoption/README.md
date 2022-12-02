@@ -17,7 +17,7 @@ SIG Adoption (biweekly), at 16.00 hours (4 pm) Europe/Stockholm time [(convert t
 
 ## Leadership
 
-The SIG Catalog team is composed of:
+The SIG Adoption team is composed of:
 
 The organizers of the SIG, who run operations and processes governing the SIG.
 
