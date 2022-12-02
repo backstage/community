@@ -22,6 +22,7 @@ The SIG Adoption team is composed of:
 The organizers of the SIG, who run operations and processes governing the SIG.
 
 - Francesco Corti ([@fcorti](https://github.com/fcorti))
+
 More to be added soon.
 
 The Tech Leads of the SIG, who manage technical direction and have formal code ownership of subprojects that fall within the scope of this SIG. This includes for example establishing or decommissioning subprojects, resolving technical issues and decisions etc.
