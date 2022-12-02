@@ -4,6 +4,7 @@ SIG is a shorthand for Special Interest Group – a collection of people with sp
 
 Active SIGs
 
+- [sig-adoption](./sig-adoption/README.md)
 - [sig-catalog](./sig-catalog/README.md)
 
 ## FAQ
