@@ -13,7 +13,6 @@ SIG Adoption (biweekly), at 16.00 hours (4 pm) Europe/Stockholm time [(convert t
 ## Contact
 
 - Discord: [#adoption](https://discord.com/channels/687207715902193673/1045031039061479536)
-- GitHub Team: [@backstage/sig-adoption](https://github.com/orgs/backstage/teams/sig-adoption)
 
 ## Leadership
 
