@@ -91,5 +91,9 @@ Checkout [backstage.io/on-demand](https://backstage.io/on-demand) for the latest
 - [How we use Backstage at Spotify - Spotify Engineering](https://engineering.atspotify.com/2020/04/21/how-we-use-backstage-at-spotify/)
 - [What the Heck is Backstage Anyway - Spotify Engineering](https://engineering.atspotify.com/2020/03/17/what-the-heck-is-backstage-anyway/)
 - [Muito prazer, Backstage.io uma nova forma de criar portais para times de desenvolvimento](https://medium.com/@_gdantas/muito-prazer-backstage-io-uma-nova-forma-de-criar-portais-para-times-de-desenvolvimento-3a4c744c85ca) (PT-BR)
+- [Welcome to Backstage!](https://drodil.medium.com/welcome-to-backstage-a51f853ec1cd)
+- [Writing Backstage Plugins](https://betterprogramming.pub/writing-backstage-plugins-a6bb1283f42)
+- [Building Backstage Catalog Providers](https://betterprogramming.pub/building-backstage-catalog-providers-9c144b2e6e7b)
+- [Processing Backstage Entities](https://drodil.medium.com/processing-backstage-entities-48dbee26bb54)
 
 You are welcome to add new links here! "Watch" the repository for any future updates.
