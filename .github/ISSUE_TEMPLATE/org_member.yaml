@@ -1,0 +1,66 @@
+name: 'Organization Membership Request'
+description: 'A request to become a Backstage organization member'
+title: 'Org Member: <your-github-login>'
+labels:
+  - org-member-request
+body:
+  - type: markdown
+    attributes:
+      value: >
+        Thank you for your interest and contributions to the Backstage project! 🙏
+
+  - type: markdown
+    attributes:
+      value: >
+        This form is used to request Organization Member status in the Backstage project,
+        as described by the [Backstage Governance](https://github.com/backstage/backstage/blob/master/GOVERNANCE.md#organization-member).
+        In addition to becoming member of the Backstage GitHub organization, this role also
+        comes with the responsibilities and requirements that are described in the governance.
+
+  - type: checkboxes
+    id: read-code-of-conduct
+    attributes:
+      label: 'Have you read the Code of Conduct?'
+      options:
+        - label: 'I have read the [Code of Conduct](https://github.com/backstage/backstage/blob/master/CODE_OF_CONDUCT.md)'
+          required: true
+
+  - type: dropdown
+    id: contributor-time
+    validations:
+      required: true
+    attributes:
+      label: 'Is your first contribution to Backstage at least 3 months ago?'
+      description: Organization members need to have been contributing for at least 3 months, or be a member of a Project Area Maintainer team.
+      options:
+        - 'No'
+        - Yes, I have been contributing to Backstage for at least 3 months
+        - No, but I am the member of a Project Area Maintainer team in my organization
+
+  - type: textarea
+    id: contributions
+    validations:
+      required: true
+    attributes:
+      label: 'Highlighted Contributions'
+      description: 'The Backstage governance requires that organization members have made some contributions to the project. Please choose a couple (3-5) of these contributions that you would like to highlight. If you are the member of a Project Area Maintainer team, please let us know your organization, team, and project area instead.'
+      placeholder: 'Link to GitHub issues, accepted PRs, or other contributions that you would like to highlight'
+
+  - type: input
+    id: discord-username
+    attributes:
+      label: 'What is your Discord username?'
+      description: 'Let others know who you are in the Backstage community Discord'
+      placeholder: 'DiscordUser#1234'
+
+  - type: input
+    id: organization
+    attributes:
+      label: 'What is the name of your current organization?'
+      description: 'Let others know what organization you are a member of'
+      placeholder: 'ACME Corp'
+
+  - type: textarea
+    id: other
+    attributes:
+      label: 'Any other context that you wish to share'
