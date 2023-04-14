@@ -22,7 +22,7 @@ The SIG Catalog team is composed of:
 The organizers of the SIG, who run operations and processes governing the SIG.
 
 - Fredrik Adelöw ([@freben](https://github.com/freben))
-- Francesco Corti ([@fcorti](https://github.com/fcorti))
+- Lee Mills ([@leemills83](https://github.com/leemills83))
 
 The Tech Leads of the SIG, who manage technical direction and have formal code ownership of subprojects that fall within the scope of this SIG. This includes for example establishing or decommissioning subprojects, resolving technical issues and decisions etc.
 
