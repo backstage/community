@@ -44,6 +44,7 @@ Checkout [backstage.io/on-demand](https://backstage.io/on-demand) for the latest
 - [Technology Radar, Vol. 23](https://www.youtube.com/watch?v=CUTSnAutoAM&t=1176)
 - [Changelog, Episode 415: "Spotify's open platform for shipping at scale"](https://changelog.com/podcast/415)
 - [QuintoCast: "Tornando a Engenharia do QuintoAndar navegável"](https://open.spotify.com/episode/5VUnjZGGIHBqiD8HHKHyd0?si=adcc7b390dbf45ef) (PT-BR)
+- [Implementing a developer portal - The Engineering Enablement Podcast - DX](https://getdx.com/podcast/developer-portal)
 
 ## Talks
 
