@@ -45,6 +45,7 @@ Checkout [backstage.io/on-demand](https://backstage.io/on-demand) for the latest
 - [Changelog, Episode 415: "Spotify's open platform for shipping at scale"](https://changelog.com/podcast/415)
 - [QuintoCast: "Tornando a Engenharia do QuintoAndar navegável"](https://open.spotify.com/episode/5VUnjZGGIHBqiD8HHKHyd0?si=adcc7b390dbf45ef) (PT-BR)
 - [Implementing a developer portal - The Engineering Enablement Podcast - DX](https://getdx.com/podcast/developer-portal)
+- [Backstage - Behind the bar](https://www.frontendhappyhour.com/episodes/backstage-behind-the-bar/)
 
 ## Talks
 
