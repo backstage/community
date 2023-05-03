@@ -97,5 +97,6 @@ Checkout [backstage.io/on-demand](https://backstage.io/on-demand) for the latest
 - [Writing Backstage Plugins](https://betterprogramming.pub/writing-backstage-plugins-a6bb1283f42)
 - [Building Backstage Catalog Providers](https://betterprogramming.pub/building-backstage-catalog-providers-9c144b2e6e7b)
 - [Processing Backstage Entities](https://drodil.medium.com/processing-backstage-entities-48dbee26bb54)
+- [Implementing Backstage Search Collator](https://drodil.medium.com/implementing-backstage-search-collator-112cd9433815)
 
 You are welcome to add new links here! "Watch" the repository for any future updates.
