@@ -39,3 +39,9 @@ especially the project area maintainer role and its responsibilities and
 requirements. In order to help onboard new areas, they can be created as
 incubating project areas, which means that the ownership will be shared with the
 Backstage core maintainers.
+
+### How come there are a lot more project area channels on Discord than there are project areas?
+
+The project area channels on Discord have been created to help focus discussions
+around specific parts of the project. Many of the channels could potentially
+become their own project areas with distinct ownership in the future.
