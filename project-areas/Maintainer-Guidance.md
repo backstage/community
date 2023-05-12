@@ -110,32 +110,81 @@ pre-releases before reaching stable.
 
 ## Tools
 
-### Issue Triage
+This section describes a few tools and strategies that can be used to
+collaborate and manage work within each project area.
 
-### Triage Strategies
+### Issue Triage Strategies
+
+This section lists different ways in which you can triage issues within your
+project area. Issue triage is an important process to make sure that issues are
+responded to in a timely manner, and that the right people are involved in the
+discussion.
 
 #### Regularly Scheduled Sync
 
-meet every X, open issues, PR that need discussion
+Use a regularly scheduled meeting to cycle through all issues that have had
+updates since the last meeting. This is the approached used by the core
+maintainers, and they use the
+[`github-sync-helper`](https://github.com/benjdlambert/github-sync-helper) tool
+to automatically open all issues that have been updated. To open all issues that
+have been changed in the last 7 days in the catalog area, you can use the
+following command:
 
-filter by label
+```bash
+npx github-sync-helper issues --days 7 --labels area:catalog
+```
+
+When executing this command each issue will be opened in your default browser.
+Typically one person executed this command, shares their screen, and drives the
+meeting. While working through the issues to gether you typically use a
+combination of the following to respond to issues:
+
+- The driver takes some quick notes and writes the full response after the
+  meeting.
+- An issue is assigned to an individual that will respond to it.
+- Short responses can be written directly together in the meeting.
 
 #### Rotating "Goalie"
 
+A rotating "goalie" role is set up, where the goalie triages, responds, or
+assigns issues. Typically you would rotate goalie every week, but other
+schedules can of course be set up too. The benefit of a rotating goalie is that
+is provides a clearer owner of the triage process, it brings everyone into the
+work, and it lets the rest of the team focused on other work. Drawbacks of a
+goalie rotation is that it can be daunting work, and it doesn't encourage as
+much collaboration in the triage process.
+
 ### Pull Request Strategies
+
+This section lists different ways in which you can manage Pull Request reviews
+within your project area.
 
 #### Randomized Pull Request Assignment
 
-GitHub team settings ->
+GitHub has a feature that allows you to randomly assign an individual reviewer
+to each pull request. It can be found on the team settings page:
+`https://github.com/orgs/backstage/teams/<name>/edit/review_assignment`. With
+this in place each pull request where the team would be marked for review, an
+individual member of the team will be asked to review instead. There are several
+different strategies for how reviews are divided that you can use. It also takes
+into consideration if members set their GitHub status to "Busy", in which case
+they will not receive any new reviews.
 
-#### Assignment during
+#### Assignment During Issue Triage
+
+One strategy for handling pull requests is to triage them together with your
+issue process. For example, of you use sync meeting you might assign new pull
+requests during that meeting, or in case of a goalie, the goalie might review
+and/or assign pull requests to other maintainers. The benefits and drawbacks of
+using the goalie approach are similar to the ones mentioned in the issue triage
+section.
 
 ### Pull request pair/mob review
 
-Tricky PRs, one or more maintainers
-
-### Review Each Others' Pull Requests
-
-### Discord text channel
-
-### Discord voice channel
+A separate strategy that can be used to review pull requests are pair or mob
+reviews. Typically this takes the form of a scheduled or ad-hoc meeting where
+you walk through the pull request together. If the pull request is authored by
+one of the team member they would typically explain it to the rest of the group,
+or if it is an external pull request anyone can drive the walkthrough. This is
+particularly useful for complicated pull requests and can in many cases end up
+being a time saver compared to reviewing the pull request asynchronously.
