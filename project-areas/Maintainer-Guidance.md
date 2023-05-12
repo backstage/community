@@ -154,7 +154,7 @@ work, and it lets the rest of the team focused on other work. Drawbacks of a
 goalie rotation is that it can be daunting work, and it doesn't encourage as
 much collaboration in the triage process.
 
-### Pull Request Strategies
+### Pull Request Review Strategies
 
 This section lists different ways in which you can manage Pull Request reviews
 within your project area.
