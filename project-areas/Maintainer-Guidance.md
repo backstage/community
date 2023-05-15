@@ -1,6 +1,6 @@
 # Project Area Ways of Working
 
-This document the ways of working that are common across all project areas, as
+This documents the ways of working that are common across all project areas, as
 well additional practices that may be adopted by individual areas.
 
 ## Common
@@ -23,14 +23,14 @@ responded to by the maintainers of the relevant project area. In particular we
 have stale bot in place to prune inactive issues, and it doesn't look good if
 issues are marked as stale without a response.
 
-Our stale bot is in place both to close old issue, but also to keep bringing up
+Our stale bot is in place to close old issues, as well as to keep bringing up
 existing issues to the forefront so that all issues throughout the project are
 considered at a regular cadence. If there is an issue that you want to leave
 open without having it marked as stale, you can add the `will-fix` label.
 
 ### Pull Request Management
 
-The division of pull request among project areas is based on the GitHub reviewer
+The division of pull requests among project areas is based on the GitHub reviewer
 feature, rather than labels or assignment. This is because it automatically
 works with the code owners feature, and also makes it possible for each team to
 decide if they want individual assignment of pull requests through the GitHub
@@ -54,7 +54,7 @@ if you are leaving a review where you would not like the pull request to be
 merged as is. This is both to clarify to the author that the pull request is not
 ready to be merged, but also to update the status of the pull request in the
 pull request review board, more on that below. If you simply want to contribute
-to a discussion in the pull requests you can leave a regular comment.
+to the discussion in a pull request you can just leave a regular comment.
 
 Even though a pull request may only change code owned by a single project area,
 it may indirectly affect other project areas or the project as a whole. If this
@@ -123,7 +123,7 @@ discussion.
 #### Regularly Scheduled Sync
 
 Use a regularly scheduled meeting to cycle through all issues that have had
-updates since the last meeting. This is the approached used by the core
+updates since the last meeting. This is the approach used by the core
 maintainers, and they use the
 [`github-sync-helper`](https://github.com/benjdlambert/github-sync-helper) tool
 to automatically open all issues that have been updated. To open all issues that
@@ -135,8 +135,8 @@ npx github-sync-helper issues --days 7 --labels area:catalog
 ```
 
 When executing this command each issue will be opened in your default browser.
-Typically one person executed this command, shares their screen, and drives the
-meeting. While working through the issues to gether you typically use a
+Typically one person executes this command, shares their screen, and drives the
+meeting. While working through the issues together you typically use a
 combination of the following to respond to issues:
 
 - The driver takes some quick notes and writes the full response after the
@@ -181,10 +181,10 @@ section.
 
 ### Pull request pair/mob review
 
-A separate strategy that can be used to review pull requests are pair or mob
+A separate strategy that can be used to review pull requests is pair or mob
 reviews. Typically this takes the form of a scheduled or ad-hoc meeting where
 you walk through the pull request together. If the pull request is authored by
-one of the team member they would typically explain it to the rest of the group,
+one of the team members they would typically explain it to the rest of the group,
 or if it is an external pull request anyone can drive the walkthrough. This is
 particularly useful for complicated pull requests and can in many cases end up
 being a time saver compared to reviewing the pull request asynchronously.

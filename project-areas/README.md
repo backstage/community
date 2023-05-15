@@ -9,7 +9,7 @@ here. A full list of the Backstage project areas can be found in
 
 For project area maintainers that want to learn more about the common ways of
 working across project areas, as well different tools you can use within the
-project area, see [guidance.md](./Maintainer-Guidance.md).
+project area, see [the guidance article](./Maintainer-Guidance.md).
 
 Each area owns their own documentation within this directory, please add
 yourselves as code owners.
@@ -24,7 +24,7 @@ project is. It might be the case that a potential area is either too large or
 small in scope. Good guidelines for a project area is that it should not be
 trivially small, but also not larger than what a single team is able to manage.
 Project areas are also a permanent structure, in the sense that temporary
-working groups or task forces to not organize into a project area.
+working groups or task forces do not organize themselves into a project area.
 
 The answer might also simply be that nobody has stepped up to drive the area, in
 which case, see the question below!
