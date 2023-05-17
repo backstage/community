@@ -1,7 +1,7 @@
 # Project Area Ways of Working
 
 This documents the ways of working that are common across all project areas, as
-well additional practices that may be adopted by individual areas.
+well as additional practices that may be adopted by individual areas.
 
 ## Common
 
@@ -151,7 +151,7 @@ assigns issues. Typically you would rotate goalie every week, but other
 schedules can of course be set up too. The benefit of a rotating goalie is that
 is provides a clearer owner of the triage process, it brings everyone into the
 work, and it lets the rest of the team focused on other work. Drawbacks of a
-goalie rotation is that it can be daunting work, and it doesn't encourage as
+goalie rotation are that it can be daunting work, and it doesn't encourage as
 much collaboration in the triage process.
 
 ### Pull Request Review Strategies
