@@ -49,7 +49,7 @@ Checkout [backstage.io/on-demand](https://backstage.io/on-demand) for the latest
 
 ## Talks
 
-- [The Good Guy: Platform Engineering Series](https://www.youtube.com/playlist?list=PLGVPcLSzJXQos1O18dvKoW2XSczz2I2lH/)
+- [The Good Guy: Platform Engineering Series](https://www.youtube.com/playlist?list=PLGVPcLSzJXQos1O18dvKoW2XSczz2I2lH)
 - [Stack Overflow Webinar: Using developer portals to enhance developer happiness (and productivity)](https://resources.stackoverflow.co/topic/productivity-tips/backstage-internal-developer-portal-webinar/)
 - [Productivity Engineering Silicon Valley: "Developer Portals and Platforms" Panel Discussion with Spotify, Lyft, PayPal, and Netflix](https://www.youtube.com/watch?v=ajN9-dWSVYs)
 - [KubeCon + CloudNativeCon Europe 2021](https://kccnceu2021.sched.com/event/iE4G/techdocs-unlocking-the-potential-of-engineers-collective-knowledge-emma-indal-spotify): ["TechDocs: Unlocking the Potential of Engineers' Collective Knowledge"](https://youtu.be/aIURaocR5D8) (video)
