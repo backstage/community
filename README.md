@@ -99,5 +99,6 @@ Checkout [backstage.io/on-demand](https://backstage.io/on-demand) for the latest
 - [Building Backstage Catalog Providers](https://betterprogramming.pub/building-backstage-catalog-providers-9c144b2e6e7b)
 - [Processing Backstage Entities](https://drodil.medium.com/processing-backstage-entities-48dbee26bb54)
 - [Implementing Backstage Search Collator](https://drodil.medium.com/implementing-backstage-search-collator-112cd9433815)
+- [Sunrise: Zalando's developer platform based on Backstage - lessons learned](https://engineering.zalando.com/posts/2023/08/sunrise-zalandos-developer-platform-based-on-backstage.html)
 
 You are welcome to add new links here! "Watch" the repository for any future updates.
