@@ -10,8 +10,6 @@ For support or more immediate technical discussions, join us in [Discord](https:
 
 **Backstage Community Sessions, hosted by Spotify**
 
-Checkout [backstage.io/on-demand](https://backstage.io/on-demand) for the latest dates and links to join.
-
 <!-- Waiting for poster -->
 <!-- ![Poster](https://user-images.githubusercontent.com/8065913/142976156-471e4dbd-0ffb-4fea-8647-b485f95af413.png) -->
 

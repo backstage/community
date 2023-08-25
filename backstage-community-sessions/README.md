@@ -9,6 +9,12 @@ Monthly meetup organized by Backstage core team with contributors.
   - Google Calendar: Use this email address `c_qup9gbhn9sqpuao6trttd8mk5s@group.calendar.google.com` to [subscribe](https://support.google.com/calendar/answer/37100?co=GENIE.Platform%3DDesktop&hl=en#zippy=%2Cadd-using-an-email-address).
   - iCal format: Use `https://calendar.google.com/calendar/ical/c_qup9gbhn9sqpuao6trttd8mk5s%40group.calendar.google.com/public/basic.ics` for other applications.
 
+<!-- When updating this doc, please make sure that a new issue already exists for the next meetup -->
+
+## ✨ Upcoming: Sep 27, 2023 ✨
+
+See details and propose topics to discuss - https://github.com/backstage/community/issues/108
+
 ## Aug 23, 2023
 
 See details and propose topics to discuss - https://github.com/backstage/community/issues/101
