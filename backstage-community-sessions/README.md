@@ -9,6 +9,92 @@ Monthly meetup organized by Backstage core team with contributors.
   - Google Calendar: Use this email address `c_qup9gbhn9sqpuao6trttd8mk5s@group.calendar.google.com` to [subscribe](https://support.google.com/calendar/answer/37100?co=GENIE.Platform%3DDesktop&hl=en#zippy=%2Cadd-using-an-email-address).
   - iCal format: Use `https://calendar.google.com/calendar/ical/c_qup9gbhn9sqpuao6trttd8mk5s%40group.calendar.google.com/public/basic.ics` for other applications.
 
+<!-- When updating this doc, please make sure that a new issue already exists for the next meetup -->
+
+## ✨ Upcoming: Sep 27, 2023 ✨
+
+See details and propose topics to discuss - https://github.com/backstage/community/issues/108
+
+## Aug 23, 2023
+
+See details and propose topics to discuss - https://github.com/backstage/community/issues/101
+
+## Jul 26, 2023
+
+See details and propose topics to discuss - https://github.com/backstage/community/issues/99
+
+## Jun 28, 2023
+
+See details and propose topics to discuss - https://github.com/backstage/community/issues/97
+
+## May 17, 2023
+
+See details and propose topics to discuss - https://github.com/backstage/community/issues/94
+
+## Apr 26, 2023
+
+See details and propose topics to discuss - https://github.com/backstage/community/issues/81
+
+## Mar 22, 2023
+
+See details and propose topics to discuss - https://github.com/backstage/community/issues/72
+
+## Feb 22, 2023
+
+See details and propose topics to discuss - https://github.com/backstage/community/issues/66
+
+## Jan 18 & 25, 2023
+
+See details and propose topics to discuss - https://github.com/backstage/community/issues/64
+
+## Dec 21, 2022
+
+See details and propose topics to discuss - https://github.com/backstage/community/issues/62
+
+## Nov 16 & 23, 2022
+
+See details and propose topics to discuss - https://github.com/backstage/community/issues/61
+
+## Sep 21 & 28, 2022
+
+See details and propose topics to discuss - https://github.com/backstage/community/issues/58
+
+## Aug 17 & 24, 2022
+
+See details and propose topics to discuss - https://github.com/backstage/community/issues/54
+
+## Jul 20 & 27, 2022
+
+See details and propose topics to discuss - https://github.com/backstage/community/issues/52
+
+## Jun 15 & 22, 2022
+
+See details and propose topics to discuss - https://github.com/backstage/community/issues/49
+
+## May 18 & 25, 2022
+
+See details and propose topics to discuss - https://github.com/backstage/community/issues/46
+
+## Apr 20 & 27, 2022
+
+See details and propose topics to discuss - https://github.com/backstage/community/issues/44
+
+## Mar 16 & 23, 2022
+
+See details and propose topics to discuss - https://github.com/backstage/community/issues/41
+
+## Feb 16 & 23, 2022
+
+See details and propose topics to discuss - https://github.com/backstage/community/issues/39
+
+## Jan 19 & 26, 2022
+
+See details and propose topics to discuss - https://github.com/backstage/community/issues/37
+
+## Dec 15 & 16, 2021
+
+See details and propose topics to discuss - https://github.com/backstage/community/issues/36
+
 ## Nov 17 & 18, 2021
 
 See details and propose topics to discuss - https://github.com/backstage/community/issues/34
