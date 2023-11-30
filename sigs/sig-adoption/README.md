@@ -6,7 +6,7 @@ The Adoption Special Interest Group (SIG) covers all aspects of the adoption jou
 
 SIG Adoption (biweekly), at 16.00 hours (4 pm) Europe/Stockholm time [(convert to your time zone)](https://dateful.com/convert/stockholm-sweden?t=16).
 
-- [Video Meeting Link](https://meet.google.com/deu-nawm-gui)
+- [Video Meeting Link](https://meet.google.com/fxs-wavz-gwi)
 - [Meeting Notes](https://docs.google.com/document/d/1zeYSzXYgh897bxPQmwy2btOwCFlEjlUDLf00riySLRc/edit?usp=sharing) - Suggest topics for the next meeting here
 - See the [Backstage Community sessions](https://calendar.google.com/calendar/u/0?cid=Y19xdXA5Z2JobjlzcXB1YW82dHJ0dGQ4bWs1c0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t) Google Calendar for upcoming meetings.
 
