@@ -11,9 +11,9 @@ Monthly meetup organized by Backstage core team with contributors.
 
 <!-- When updating this doc, please make sure that a new issue already exists for the next meetup -->
 
-## ✨ Upcoming: Nov 22, 2023 ✨
+## ✨ Upcoming: Dec 20, 2023 ✨
 
-See details and propose topics to discuss - https://github.com/backstage/community/issues/111
+See details and propose topics to discuss - https://github.com/backstage/community/issues/116
 
 ## Sep 27, 2023
 
