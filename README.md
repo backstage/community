@@ -92,6 +92,8 @@ For support or more immediate technical discussions, join us in [Discord](https:
 - [How we use Backstage at Spotify - Spotify Engineering](https://engineering.atspotify.com/2020/04/21/how-we-use-backstage-at-spotify/)
 - [What the Heck is Backstage Anyway - Spotify Engineering](https://engineering.atspotify.com/2020/03/17/what-the-heck-is-backstage-anyway/)
 - [Muito prazer, Backstage.io uma nova forma de criar portais para times de desenvolvimento](https://medium.com/@_gdantas/muito-prazer-backstage-io-uma-nova-forma-de-criar-portais-para-times-de-desenvolvimento-3a4c744c85ca) (PT-BR)
+- [Backstage and Terraform — A Powerful Combination for Ops, Wonderful for Devs](https://medium.com/@_gdantas/backstage-and-terraform-a-powerful-combination-for-ops-wonderful-for-devs-c04ebce849f0)
+  - [Backstage e Terraform — Uma combinação poderosa para Ops, maravilhosa para Devs](https://medium.com/@_gdantas/backstage-e-terraform-uma-combina%C3%A7%C3%A3o-poderosa-para-ops-maravilhosa-para-devs-4c25070045cc) (PT-BR)
 - [Welcome to Backstage!](https://drodil.medium.com/welcome-to-backstage-a51f853ec1cd)
 - [Writing Backstage Plugins](https://betterprogramming.pub/writing-backstage-plugins-a6bb1283f42)
 - [Building Backstage Catalog Providers](https://betterprogramming.pub/building-backstage-catalog-providers-9c144b2e6e7b)
