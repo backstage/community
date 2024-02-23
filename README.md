@@ -69,6 +69,7 @@ For support or more immediate technical discussions, join us in [Discord](https:
 - [Backstage Adoption at Brex - Brex Tech Blog](https://medium.com/brexeng/backstage-adoption-at-brex-b415e0e7d3a6)
 - [Backstage by Spotify - The Ultimate Guide](https://roadie.io/backstage-spotify/)
 - [How we are improving developer experience at QuintoAndar with backstage.io - QuintoAndar Tech Blog](https://medium.com/quintoandar-tech-blog/how-we-are-improving-developer-experience-at-quintoandar-with-backstage-io-fa1ab70b75cb)
+- [How we are creating a knowledge base on QuintoAndar with an Open Source Q&A plugin on Backstage - QuintoAndar Tech Blog](https://medium.com/quintoandar-tech-blog/how-we-are-creating-a-knowledge-base-on-quintoandar-with-an-open-source-q-a-plugin-on-backstage-279faf4d6f61)
 - [Relieve Developers' churn in your Cloud Native strategy with Backstage](https://frontside.com/blog/2021-05-14-avoid-cloud-native-churn-with-backstage/)
 - [Building a Developer Portal with Backstage - SDA SE (Part 1)](https://medium.com/sda-se/building-a-developer-portal-with-backstage-part-1-c4602ee59260) / [Part 2](https://medium.com/sda-se/building-a-developer-portal-with-backstage-part-2-99537068f4ed)
 - [A Developer's Perspective: Lessons from Open Source with FireHydrant and Backstage - FireHydrant.io](https://firehydrant.io/blog/a-developers-perspective-lessons-from-open-source/)
