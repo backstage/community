@@ -6,6 +6,8 @@ Active SIGs
 
 - [sig-adoption](./sig-adoption/README.md)
 - [sig-catalog](./sig-catalog/README.md)
+- [sig-community-plugins](./sig-community-plugins/README.md)
+- [sig-scaffolder](./sig-scaffolder/README.md)
 
 ## FAQ
 
