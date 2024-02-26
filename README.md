@@ -19,6 +19,8 @@ For support or more immediate technical discussions, join us in [Discord](https:
 
 **Backstage Users Unconference, hosted by Roadie and Frontside**
 
+*Inactive since March 2022*
+
 [Backstage Users Unconference](https://hopin.com/events/backstage-users-unconference-mar-22) is a quarterly get-together of users sharing their experiences working with Backstage in their teams and insights about the ecosystem's plugins. Show up and suggest topics on the day.
 
 ## Newsletters
