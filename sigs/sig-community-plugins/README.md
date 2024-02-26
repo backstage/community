@@ -20,7 +20,9 @@ The SIG Community Plugins team is composed of:
 
 The organizers of the SIG, who run operations and processes governing the SIG.
 
-- TBD
+- @BethGriggs
+- @nickboldt
+- @kadel 
 
 ## Scope
 
