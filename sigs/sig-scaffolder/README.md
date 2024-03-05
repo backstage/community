@@ -6,7 +6,7 @@ The Scaffolder Special Interest Group (SIG) covers all aspects of the systems an
 
 SIG Scaffolder (biweekly), at 16.00 hours on Fridays (4 pm) Europe/Stockholm time [(convert to your time zone)](https://dateful.com/convert/stockholm-sweden?t=16).
 
-- [Video Meeting Link](https://meet.google.com/zwa-tebz-rnq)
+- [Video Meeting Link](https://meet.google.com/gxw-vghq-fvs)
 - [Meeting Notes](https://docs.google.com/document/d/19VMhugnvmmX_F6tu-53_BsNknCxLme5VUzUCLa4nzSM/edit?usp=sharing) - Suggest topics for the next meeting here
 - See the [Backstage Community sessions](https://calendar.google.com/calendar/u/0?cid=Y19xdXA5Z2JobjlzcXB1YW82dHJ0dGQ4bWs1c0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t) Google Calendar for upcoming meetings.
 
