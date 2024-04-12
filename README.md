@@ -103,5 +103,6 @@ For support or more immediate technical discussions, join us in [Discord](https:
 - [Processing Backstage Entities](https://drodil.medium.com/processing-backstage-entities-48dbee26bb54)
 - [Implementing Backstage Search Collator](https://drodil.medium.com/implementing-backstage-search-collator-112cd9433815)
 - [Sunrise: Zalando's developer platform based on Backstage - lessons learned](https://engineering.zalando.com/posts/2023/08/sunrise-zalandos-developer-platform-based-on-backstage.html)
+- [Avoiding Pitfalls With Backstage Catalog](https://medium.com/@drodil/avoiding-pitfalls-with-backstage-catalog-209118cebaf2?sk=363c2788a2d0fc8b0e34fb3ac40cb069)
 
 You are welcome to add new links here! "Watch" the repository for any future updates.
