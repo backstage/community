@@ -1,4 +1,29 @@
-# Project Areas
+# Backstage Governance
+
+This is the governance for the Backstage project. It applies to all repositories
+in the [Backstage GitHub organization](https://github.com/backstage).
+
+## Table of Contents
+
+- [Project Areas](#project-areas)
+- [Project Roles](#project-roles)
+  - [Contributor](#contributor)
+  - [Organization Member](#organization-member)
+  - [Plugin Maintainer](#plugin-maintainer)
+  - [Project Area Maintainer](#project-area-maintainer)
+  - [Core Maintainer](#core-maintainer)
+  - [End User Sponsors](#end-user-sponsors)
+- [Conflict resolution and voting](#conflict-resolution-and-voting)
+- [Inactivity](#inactivity)
+- [Involuntary Removal or Demotion](#involuntary-removal-or-demotion)
+- [Stepping Down/Emeritus Process](#stepping-downemeritus-process)
+
+## Code of Conduct
+
+All members of the Backstage community are expected to follow the [CNCF Code of
+Conduct](
+
+## Project Areas
 
 The Backstage project is divided into several project areas, each covering
 particular parts of the project. The main driver for each area is ownership of
@@ -24,7 +49,7 @@ sole maintainers of the project area. This is to allow for a more smooth
 onboarding and transition of ownership, where members of the community might for
 example be new to open source maintainership.
 
-## Adding new project areas
+### Adding new project areas
 
 Project areas are added by nominating new maintainers for that area. See the
 sections for becoming a [Project Area Maintainer](#project-area-maintainer).
@@ -32,28 +57,28 @@ sections for becoming a [Project Area Maintainer](#project-area-maintainer).
 Project areas may also by added by splitting existing areas. Every area that is
 created through this process must have at least one maintainer.
 
-## Removing project areas
+### Removing project areas
 
 Project areas are removed by removing all maintainers for that area and removing
 the corresponding team from the Backstage GitHub organization. The project area
 can be re-added later if there is a need for it. Reasons for removal may include
 lack of activity, lack of maintainers, or lack of relevance to the project.
 
-# Project Roles
+## Project Roles
 
-## Contributor
+### Contributor
 
 A Contributor contributes directly to the project and adds value to it.
 Contributions need not be code. People at the Contributor level may be new
 contributors, or they may only contribute occasionally.
 
-### Responsibilities
+#### Responsibilities
 
 - Follow the
   [CNCF CoC](https://github.com/cncf/foundation/blob/main/code-of-conduct.md)
 - Follow the project [contributing guide](CONTRIBUTING.md)
 
-### How to get involved
+#### How to get involved
 
 - Participate in community discussions
 - Help other users
@@ -62,7 +87,7 @@ contributors, or they may only contribute occasionally.
 - Try out new releases
 - Attend community events
 
-### How to contribute
+#### How to contribute
 
 - Report and sometimes resolve issues
 - Occasionally submit PRs
@@ -74,7 +99,7 @@ contributors, or they may only contribute occasionally.
 - Run or help run events
 - Promote the project in public
 
-## Organization Member
+### Organization Member
 
 An org member is a frequent contributor that has become a member of the
 Backstage GitHub organization. In addition to the responsibilities of
@@ -84,14 +109,14 @@ community through continuous contributions of any type.
 An Organization Member must meet the responsibilities and has the requirements
 of a Contributor.
 
-### Responsibilities
+#### Responsibilities
 
 - Continues to contribute regularly, as demonstrated by having at least 10
   GitHub contributions per year in
   [Devstats](https://backstage.devstats.cncf.io/d/48/users-statistics-by-repository-group?orgId=1&var-period=y&var-metric=contributions&var-repogroup_name=All&from=now-1y&to=now&var-users=All),
   or contributions of a similar effort that might not be captured in Devstats.
 
-### Requirements
+#### Requirements
 
 - Must have at least 10 contributions to the projects in the form of:
   - Accepted PRs
@@ -103,17 +128,17 @@ of a Contributor.
   requirements do not apply and the member is instead vetted by the project area
   maintainers
 
-### Becoming an Organization Member
+#### Becoming an Organization Member
 
 Open an issue towards
 [the community repository](https://github.com/backstage/community) using the
 [org membership request template](https://github.com/backstage/community/issues/new?template=org_member.yaml&title=Org+Member%3A+%3Cyour-github-login%3E).
 
-### Privileges
+#### Privileges
 
 - Membership in the Backstage GitHub organization
 
-## Plugin Maintainer
+### Plugin Maintainer
 
 A Plugin Maintainer is responsible for maintaining an individual Backstage
 plugin or module. This includes reviewing contributions and responding to issues
@@ -128,14 +153,14 @@ it may be promoted to be a distinct project area instead.
 A Plugin Maintainer has all the rights and responsibilities of an Organization
 Member.
 
-### Responsibilities
+#### Responsibilities
 
 - Review the majority of PRs towards the plugin
 - Respond to GitHub issues related to the plugin
 - Keep the plugin up-to-date with Backstage libraries and other dependencies
 - Follow the [reviewing guide](REVIEWING.md)
 
-### Requirements
+#### Requirements
 
 - Is an Organization Member
 - Display knowledge of Backstage's review process and best practices for plugin
@@ -143,12 +168,12 @@ Member.
 - Is supportive of new and occasional contributors and helps get useful PRs in
   shape to merge
 
-### Privileges
+#### Privileges
 
 - GitHub code owner of the plugin directory, with rights to approve and merge
   PRs towards the plugin
 
-### Becoming a Plugin Maintainer
+#### Becoming a Plugin Maintainer
 
 To become a Plugin Maintainer, you first need to be an Organization Member. You
 can then file a pull request towards [CODEOWNERS.md](./.github/CODEOWNERS)
@@ -156,7 +181,7 @@ requesting to be added as a code owner of the plugin directory. Existing code
 owners of that plugin alongside the core maintainers will then review the
 request.
 
-## Project Area Maintainer
+### Project Area Maintainer
 
 Project Area Maintainers are owners of a particular project area. They are
 expected to review and merge pull requests towards their area, and also drive
@@ -177,7 +202,7 @@ autonomously by the team of project area maintainers.
 A Project Area Maintainer has all the rights and responsibilities of an
 Organization Member.
 
-### Responsibilities
+#### Responsibilities
 
 - Review PRs towards their project area. Project area maintainers are expected
   to review at least 20 PRs per year, or the majority of all PRs towards the
@@ -189,7 +214,7 @@ Organization Member.
 - Determine strategy and policy for the project area
 - Participate in or leading community meetings related to their project area
 
-### Requirements
+#### Requirements
 
 - Is an Organization Member
 - Have made at least 5 meaningful contributions towards the project area
@@ -201,12 +226,12 @@ Organization Member.
 - Can commit to spending at least 16 hours per month working on the project,
   preferably distributed evenly across the month
 
-### Privileges
+#### Privileges
 
 - Approve and merge PRs towards their project area
 - Drive the direction and roadmap of their project area
 
-### Becoming a Project Area Maintainer
+#### Becoming a Project Area Maintainer
 
 If you are interested in becoming a project area maintainer, reach out to the
 existing maintainers for that area. If you wish to become a maintainer for a new
@@ -218,7 +243,7 @@ A majority of the project area maintainers for that area must approve the PR. If
 there are no existing maintainers for that area, the PR must be approved by a
 majority of the core maintainers.
 
-## Core Maintainer
+### Core Maintainer
 
 Core Maintainers are responsible for the Backstage project as a whole. They help
 review and merge project-level pull requests as well as coordinate work
@@ -234,7 +259,7 @@ core maintainers.
 A Core Maintainer have all the rights and responsibilities of a Project Area
 Maintainer.
 
-### Responsibilities
+#### Responsibilities
 
 - Take part in the incoming issue and PR triage and review process. PRs are
   shared equally among all maintainers
@@ -246,7 +271,7 @@ Maintainer.
 - Determine strategy and policy for the project
 - Participate in or leading community meetings
 
-### Requirements
+#### Requirements
 
 - Experience as a Project Area Maintainer for at least 6 months
 - Demonstrates a broad knowledge of the project across multiple areas
@@ -255,7 +280,7 @@ Maintainer.
 - Mentors other contributors
 - Can commit to spending at least 10 days per month working on the project
 
-### Privileges
+#### Privileges
 
 - Approve PRs that fall outside any specific project area
 - Merge PRs to any area of the project
@@ -263,15 +288,15 @@ Maintainer.
 - Communicate with the CNCF on behalf of the project
 - Have a vote in Maintainer decision-making meetings
 
-### Becoming a Core Maintainer
+#### Becoming a Core Maintainer
 
 Any core maintainer or end user sponsor may nominate a new core maintainer by
 opening a PR towards the [OWNERS.md](OWNERS.md) file. Core maintainers must be
 approved by a majority of the existing core maintainers and end user sponsors.
 
-## End User Sponsors
+### End User Sponsors
 
-### Role of a Backstage End User Sponsor
+#### Role of a Backstage End User Sponsor
 
 - Provide support for Backstage by removing blockers, securing funding,
   providing advocacy, feedback, and ensuring project continuity and long term
@@ -280,7 +305,7 @@ approved by a majority of the existing core maintainers and end user sponsors.
   planned work
 - Provide neutral mediation for any disputes that arise as part of the project
 
-### Backstage End User Sponsor Membership
+#### Backstage End User Sponsor Membership
 
 The End User Sponsors group comprises at most 5 people. To be eligible for
 membership in the group, you or the company where you work you must:
@@ -298,7 +323,7 @@ remaining, existing sponsors shall vote on the candidates, and the candidates
 with the most votes will become Sponsors. Any ties will be broken by current
 Backstage sponsors.
 
-# Conflict resolution and voting
+## Conflict resolution and voting
 
 In general, we prefer that technical issues and membership are amicably worked
 out between the persons involved. If a dispute cannot be decided independently,
