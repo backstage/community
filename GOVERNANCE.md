@@ -38,7 +38,7 @@ Project areas may also have special interest groups (SIGs) related to their
 area, but this is not required.
 
 The project areas as well as their maintainers are listed in the
-[OWNERS.md](./OWNERS.md) file.
+[OWNERS.md](https://github.com/backstage/backstage/blob/master/OWNERS.md) file.
 
 Each project area must have at least one maintainer. Project area maintainers
 may have shared ownership with the core maintainers, which in that case is
@@ -76,7 +76,8 @@ contributors, or they may only contribute occasionally.
 
 - Follow the
   [CNCF CoC](https://github.com/cncf/foundation/blob/main/code-of-conduct.md)
-- Follow the project [contributing guide](CONTRIBUTING.md)
+- Follow the project
+  [contributing guide](https://github.com/backstage/backstage/blob/master/CONTRIBUTING.md)
 
 #### How to get involved
 
@@ -144,9 +145,9 @@ A Plugin Maintainer is responsible for maintaining an individual Backstage
 plugin or module. This includes reviewing contributions and responding to issues
 towards an individual plugin, as well as keeping the plugin up to date.
 
-Plugin Maintainer is a lightweight form of ownership that is primarily reflected
-though code owners of the plugin packages in the
-[CODEOWNERS](./.github/CODEOWNERS) file. Each plugin can have one or more
+Plugin Maintainer is a lightweight form of ownership that is reflected though
+[CODEOWNERS.md](https://github.com/backstage/community-plugins/blob/main/.github/CODEOWNERS)
+in the community plugins repository. Each plugin can have one or more
 maintainers. If a plugin becomes a significant part of the Backstage ecosystem,
 it may be promoted to be a distinct project area instead.
 
@@ -158,7 +159,8 @@ Member.
 - Review the majority of PRs towards the plugin
 - Respond to GitHub issues related to the plugin
 - Keep the plugin up-to-date with Backstage libraries and other dependencies
-- Follow the [reviewing guide](REVIEWING.md)
+- Follow the
+  [reviewing guide](https://github.com/backstage/backstage/blob/master/REVIEWING.md)
 
 #### Requirements
 
@@ -176,7 +178,8 @@ Member.
 #### Becoming a Plugin Maintainer
 
 To become a Plugin Maintainer, you first need to be an Organization Member. You
-can then file a pull request towards [CODEOWNERS.md](./.github/CODEOWNERS)
+can then file a pull request towards
+[CODEOWNERS.md](https://github.com/backstage/community-plugins/blob/main/.github/CODEOWNERS)
 requesting to be added as a code owner of the plugin directory. Existing code
 owners of that plugin alongside the core maintainers will then review the
 request.
@@ -207,7 +210,8 @@ Organization Member.
 - Review PRs towards their project area. Project area maintainers are expected
   to review at least 20 PRs per year, or the majority of all PRs towards the
   area, if it is less than 20
-- Follow the [reviewing guide](REVIEWING.md)
+- Follow the
+  [reviewing guide](https://github.com/backstage/backstage/blob/master/REVIEWING.md)
 - Triage and respond to issues related to their project area
 - Mentor new project area maintainers
 - Write refactoring PRs
@@ -238,7 +242,8 @@ existing maintainers for that area. If you wish to become a maintainer for a new
 area, reach out to the core maintainers.
 
 Any current project area maintainer or core maintainer may nominate a new
-project area maintainer by opening a PR towards the [OWNERS.md](OWNERS.md) file.
+project area maintainer by opening a PR towards the
+[OWNERS.md](https://github.com/backstage/backstage/blob/master/OWNERS.md) file.
 A majority of the project area maintainers for that area must approve the PR. If
 there are no existing maintainers for that area, the PR must be approved by a
 majority of the core maintainers.
@@ -267,7 +272,7 @@ Maintainer.
 - Drive refactoring and manage tech health across the entire project
 - Participate in CNCF maintainer activities
 - Respond to security incidents in accordance to our
-  [security policy](./SECURITY.md)
+  [security policy](https://github.com/backstage/backstage/blob/master/SECURITY.md)
 - Determine strategy and policy for the project
 - Participate in or leading community meetings
 
@@ -291,8 +296,10 @@ Maintainer.
 #### Becoming a Core Maintainer
 
 Any core maintainer or end user sponsor may nominate a new core maintainer by
-opening a PR towards the [OWNERS.md](OWNERS.md) file. Core maintainers must be
-approved by a majority of the existing core maintainers and end user sponsors.
+opening a PR towards the
+[OWNERS.md](https://github.com/backstage/backstage/blob/master/OWNERS.md) file.
+Core maintainers must be approved by a majority of the existing core maintainers
+and end user sponsors.
 
 ### End User Sponsors
 
