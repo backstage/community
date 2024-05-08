@@ -12,7 +12,13 @@ They are responsible for ensuring that the repository is maintained overall, and
 
 ### Issue Triage
 
-TBD in the upcoming Community Plugins SIG.
+Issue triage will be carried out on Discord on opposite weeks to the Community Plugins SIG to start. This will be done by the Community Plugins Area Maintainers, and will be done in a round-robin fashion. One of the Community Plugins Area Maintainers will be selected and will run the `github-sync-helper` script to open up all the issues that have changed since the last sync.
+
+```bash
+npx github-sync-helper@latest issues --repo backstage/community-plugins --days 7
+```
+
+The Community Plugins Area Maintainer will then go through the issues and assign them to the appropriate Plugin Maintainer or Community Plugins Area Maintainer.
 
 ### Pull Request Reviews
 
