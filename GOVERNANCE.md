@@ -21,7 +21,7 @@ in the [Backstage GitHub organization](https://github.com/backstage).
 ## Code of Conduct
 
 All members of the Backstage community are expected to follow the [CNCF Code of
-Conduct](
+Conduct](https://github.com/cncf/foundation/blob/main/code-of-conduct.md)
 
 ## Project Areas
 
