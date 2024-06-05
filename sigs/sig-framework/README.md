@@ -40,7 +40,7 @@ discussion for each topic is time-boxed with a time check every 5 minutes to
 decide whether to extend the discussion or move on to the next topic.
 
 After all topics have been discussed, and if there is time left, the meeting
-moves on to discuss open Pull Request (PR) in the Backstage repository. This is
+moves on to discuss open Pull Requests (PRs) in the Backstage repository. This is
 an opportunity for members of the community to ask questions about their PRs and
 get feedback from the maintainers. To suggest a PR for discussion, please add it
 to the
