@@ -13,7 +13,7 @@ body:
     attributes:
       value: >
         This form is used to request Organization Member status in the Backstage project,
-        as described by the [Backstage Governance](https://github.com/backstage/backstage/blob/master/GOVERNANCE.md#organization-member).
+        as described by the [Backstage Governance](https://github.com/backstage/community/blob/master/GOVERNANCE.md#organization-member).
         In addition to becoming member of the Backstage GitHub organization, this role also
         comes with the responsibilities and requirements that are described in the governance.
 
