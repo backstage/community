@@ -1,0 +1,8 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: community
+spec:
+  type: website
+  lifecycle: experimental
+  owner: techdocs-maintainers
