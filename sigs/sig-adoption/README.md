@@ -23,7 +23,7 @@ The SIG Adoption team is composed of:
 
 The organizers of the SIG, who run operations and processes governing the SIG.
 
-- Lee Mills ([@leemills83](https://github.com/leemills83))
+- Patrik Oldsberg ([@Rugvip](https://github.com/Rugvip))
 
 More to be added soon.
 
