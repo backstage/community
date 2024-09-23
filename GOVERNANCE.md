@@ -20,8 +20,8 @@ in the [Backstage GitHub organization](https://github.com/backstage).
 
 ## Code of Conduct
 
-All members of the Backstage community are expected to follow the [CNCF Code of
-Conduct](https://github.com/cncf/foundation/blob/main/code-of-conduct.md)
+All members of the Backstage community are expected to follow the
+[CNCF Code of Conduct](https://github.com/cncf/foundation/blob/main/code-of-conduct.md)
 
 ## Project Areas
 
@@ -119,15 +119,25 @@ of a Contributor.
 
 #### Requirements
 
-- Must have at least 10 contributions to the projects in the form of:
-  - Accepted PRs
-  - Helpful PR reviews
-  - Resolving GitHub issues
-  - Or some equivalent contributions to the project
-- Must have been contributing for at least 3 months
-- Or is the member of a team that owns a project area, in which case the above
-  requirements do not apply and the member is instead vetted by the project area
-  maintainers
+There are three different paths to becoming an Organization Member:
+
+1. Individual org-member path:
+   - Must have at least 10 contributions to the projects in the form of:
+     - Accepted PRs
+     - Helpful PR reviews
+     - Resolving GitHub issues
+     - Or some equivalent contributions to the project
+   - Must have been contributing for at least 3 months
+2. Team member of an existing project area maintainer team:
+   - In the case where a team at an organization owns a project area, all the
+     members of that team are automatically able to become both Organization
+     Members and Project Area Maintainers. This must be approved by at least one
+     of the existing project area maintainers.
+3. Plugin maintainer:
+   - In the event that a contributor is granted Plugin Maintainer status, they
+     are automatically also granted Organization Member status. This must be
+     approved by at least one of the existing Community Plugin Project Area
+     Maintainers.
 
 #### Becoming an Organization Member
 
@@ -142,7 +152,9 @@ Open an issue towards
 ### Plugin Maintainer
 
 A Plugin Maintainer is responsible for maintaining an individual Backstage
-plugin or module. This includes reviewing contributions and responding to issues
+plugin or module in the
+[backstage/community-plugins](https://github.com/backstage/community-plugins)
+repository. This includes reviewing contributions and responding to issues
 towards an individual plugin, as well as keeping the plugin up to date.
 
 Plugin Maintainer is a lightweight form of ownership that is reflected though
@@ -164,15 +176,21 @@ Member.
 
 #### Requirements
 
-- Is an Organization Member
 - Display knowledge of Backstage's review process and best practices for plugin
   design
 - Is supportive of new and occasional contributors and helps get useful PRs in
   shape to merge
+- Owns at least one plugin in the
+  [backstage/community-plugins](https://github.com/backstage/community-plugins)
+  repository. For details on how to contribute a plugin, see the
+  [Backstage Community Plugins README.md](https://github.com/backstage/community-plugins/blob/main/README.md)
 
 #### Privileges
 
-- GitHub code owner of the plugin directory, with rights to approve and merge
+- Write access to the
+  [backstage/community-plugins](https://github.com/backstage/community-plugins)
+  repository
+- GitHub code owner of the plugin workspace, with rights to approve and merge
   PRs towards the plugin
 
 #### Becoming a Plugin Maintainer

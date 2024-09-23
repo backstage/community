@@ -7,7 +7,7 @@ body:
   - type: markdown
     attributes:
       value: >
-        Thank you for your interest and contributions to the Backstage project! 🙏
+        ### Thank you for your interest and contributions to the Backstage project! 🙏
 
   - type: markdown
     attributes:
@@ -17,34 +17,47 @@ body:
         In addition to becoming member of the Backstage GitHub organization, this role also
         comes with the responsibilities and requirements that are described in the governance.
 
-  - type: checkboxes
-    id: read-code-of-conduct
+  - type: markdown
     attributes:
-      label: 'Have you read the Code of Conduct?'
-      options:
-        - label: 'I have read the [Code of Conduct](https://github.com/backstage/backstage/blob/master/CODE_OF_CONDUCT.md)'
-          required: true
+      value: <br>
 
   - type: dropdown
-    id: contributor-time
+    id: member-type
     validations:
       required: true
     attributes:
-      label: 'Is your first contribution to Backstage at least 3 months ago?'
-      description: Organization members need to have been contributing for at least 3 months, or be a member of a Project Area Maintainer team.
+      label: 'Through which path are you seeking to become an organization member?'
       options:
-        - 'No'
-        - Yes, I have been contributing to Backstage for at least 3 months
-        - No, but I am the member of a Project Area Maintainer team in my organization
+        - 1. I have been contributing for at least 3 months and wish to become a standalone org-member
+        - 2. The team that I am a member of in my organization are maintainers of a Project Area in Backstage
+        - 3. I am a maintainer of a plugin the Backstage Community Plugins Repository
+
+  - type: markdown
+    attributes:
+      value: <br>
 
   - type: textarea
     id: contributions
-    validations:
-      required: true
     attributes:
-      label: 'Highlighted Contributions'
-      description: 'The Backstage governance requires that organization members have made some contributions to the project. Please choose a couple (3-5) of these contributions that you would like to highlight. If you are the member of a Project Area Maintainer team, please let us know your organization, team, and project area instead.'
+      label: 'If option 1: Highlighted Contributions'
+      description: 'The Backstage governance requires that standalone organization members have made some contributions to the project. Please choose a couple (3-5) of these contributions that you would like to highlight. If you are the member of a Project Area Maintainer team, please let us know your organization, team, and project area instead.'
       placeholder: 'Link to GitHub issues, accepted PRs, or other contributions that you would like to highlight'
+
+  - type: input
+    id: project-area
+    attributes:
+      label: 'If option 2: Project Area'
+      description: 'Please specify the project area that your team maintains'
+
+  - type: input
+    id: plugin-owner
+    attributes:
+      label: 'If option 3: Plugin code owner PR'
+      description: 'Please link to the pull request where you were added as a code owner of a plugin in the community-plugins repository'
+
+  - type: markdown
+    attributes:
+      value: <br>
 
   - type: input
     id: discord-username
@@ -64,3 +77,11 @@ body:
     id: other
     attributes:
       label: 'Any other context that you wish to share'
+
+  - type: checkboxes
+    id: read-code-of-conduct
+    attributes:
+      label: 'Have you read the Code of Conduct?'
+      options:
+        - label: 'I have read the [Code of Conduct](https://github.com/backstage/backstage/blob/master/CODE_OF_CONDUCT.md)'
+          required: true
