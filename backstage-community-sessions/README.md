@@ -5,6 +5,7 @@ Monthly meetup organized by Backstage core team with contributors.
 ![Poster](/backstage-community-sessions/assets/Backstage%20Community%20Sessions.png)
 
 - Topics to discuss are collected by [GitHub issues](https://github.com/backstage/community/issues?q=is%3Aissue+%22Agenda+for+Backstage+Community+Session%22+) in this repository.
+  - Want to propose a topic, present a demo, share your Backstage journey, or add something else to the agenda? Just comment on the open issue for the [upcoming session](https://github.com/backstage/community/issues?q=is%3Aissue+is%3Aopen+%22Agenda+for+Backstage+Community+Session%22+).
 - Add this [public Calendar](https://calendar.google.com/calendar/embed?src=c_qup9gbhn9sqpuao6trttd8mk5s@group.calendar.google.com) to see upcoming event details.
   - Google Calendar: Use this email address `c_qup9gbhn9sqpuao6trttd8mk5s@group.calendar.google.com` to [subscribe](https://support.google.com/calendar/answer/37100?co=GENIE.Platform%3DDesktop&hl=en#zippy=%2Cadd-using-an-email-address).
   - iCal format: Use `https://calendar.google.com/calendar/ical/c_qup9gbhn9sqpuao6trttd8mk5s%40group.calendar.google.com/public/basic.ics` for other applications.
