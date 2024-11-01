@@ -195,12 +195,17 @@ Member.
 
 #### Becoming a Plugin Maintainer
 
-To become a Plugin Maintainer, you first need to be an Organization Member. You
-can then file a pull request towards
-[CODEOWNERS.md](https://github.com/backstage/community-plugins/blob/main/.github/CODEOWNERS)
-requesting to be added as a code owner of the plugin directory. Existing code
-owners of that plugin alongside the core maintainers will then review the
-request.
+You become a Plugin Maintainer by contributing a plugin to the
+[community plugins respository](https://github.com/backstage/community-plugins)
+and listing yourself as the
+[code owner](https://github.com/backstage/community-plugins/blob/main/.github/CODEOWNERS)
+of the plugin. The plugin contribution and ownership change must both be
+approved and merged by the Community Plugin Maintainers before you are granted
+Plugin Maintainer status. To become the maintainer of an existing plugin, the
+must list yourself as a
+[code owner](https://github.com/backstage/community-plugins/blob/main/.github/CODEOWNERS)
+of the plugin, and this change must be approved and merged by both the existing
+code owners as well as the Community Plugin Maintainers.
 
 ### Project Area Maintainer
 
