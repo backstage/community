@@ -4,7 +4,7 @@ The Docs (Documentation) Special Interest Group (SIG) covers all aspects of the 
 
 ## Meetings
 
-SIG Docs (biweekly), at 16.00 hours on Mondays (4 pm) Europe/Stockholm time [(convert to your time zone)](https://dateful.com/convert/stockholm-sweden?t=16).
+SIG Docs (biweekly), at 16.00 hours on Fridays (4 pm) Europe/Stockholm time [(convert to your time zone)](https://dateful.com/convert/stockholm-sweden?t=16).
 
 - [Video Meeting Link](https://meet.google.com/iwm-oeoj-nvi)
 - [Meeting Notes](https://docs.google.com/document/d/1yVdnxtrpA6tPTGl9gbeHME7bEkQQTnfrjG3H7loEKrI/edit) - Suggest topics for the next meeting here
