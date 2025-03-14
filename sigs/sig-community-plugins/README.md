@@ -16,15 +16,7 @@ SIG Community Plugins (biweekly), at 16.00 hours (4 pm) Europe/Stockholm time [(
 
 ## Leadership
 
-The SIG Community Plugins team is composed of:
-
-The organizers of the SIG, who run operations and processes governing the SIG.
-
-- @BethGriggs
-- @kadel
-- @nickboldt
-- @tudi2d
-- @vinzscam
+The SIG Community Plugins team is represented by [@backstage/community-plugins-maintainers](https://github.com/orgs/backstage/teams/community-plugins-maintainers), as listed in the [OWNERS file](https://github.com/backstage/backstage/blob/master/OWNERS.md#community-plugins) of the Backstage core repository. This team is responsible for tooling and maintaining the Backstage Community Plugins repository. For the most up-to-date list of maintainers, refer to the [OWNERS file](https://github.com/backstage/backstage/blob/master/OWNERS.md#community-plugins).
 
 ## Scope
 
