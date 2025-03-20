@@ -16,6 +16,7 @@ For support or more immediate technical discussions, join us in [Discord](https:
 - Join monthly meetups organized by the Backstage core team and contributors
 - [View upcoming agendas, notes, and archives](backstage-community-sessions)
 - [View Google calendar](https://calendar.google.com/calendar/embed?src=c_qup9gbhn9sqpuao6trttd8mk5s@group.calendar.google.com) (Click + to add)
+- [View YouTube channel for Community Sessions recordings](https://www.youtube.com/@backstagecommunity)
 
 **Backstage Users Unconference, hosted by Roadie and Frontside**
 
