@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: community
+  annotations:
+    github.com/project-slug: 'backstage/community'
+spec:
+  type: service
+  lifecycle: production
+  owner: spotify
