@@ -78,15 +78,15 @@ body:
     attributes:
       label: 'Any other context that you wish to share'
 
-- type: checkboxes
-  id: read-org-member-responsibilities
-  attributes:
-    label: 'Have you read the Organization Member responsibilities?'
-    options:
-      - label: >
-          I have read and understood the [Organization Member responsibilities](https://github.com/backstage/community/blob/master/GOVERNANCE.md#organization-member).
-          If applying via option 3 (Plugin Maintainer), I have also reviewed the [Plugin Maintainer section](https://github.com/backstage/community/blob/master/GOVERNANCE.md#plugin-maintainer).
-        required: true
+  - type: checkboxes
+    id: read-org-member-responsibilities
+    attributes:
+      label: 'Have you read the Organization Member responsibilities?'
+      options:
+        - label: >
+            I have read and understood the [Organization Member responsibilities](https://github.com/backstage/community/blob/master/GOVERNANCE.md#organization-member).
+            If applying via option 3 (Plugin Maintainer), I have also reviewed the [Plugin Maintainer section](https://github.com/backstage/community/blob/master/GOVERNANCE.md#plugin-maintainer).
+          required: true
 
   - type: checkboxes
     id: read-code-of-conduct
