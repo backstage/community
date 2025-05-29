@@ -1,0 +1,10 @@
+teams:
+  - name: community-plugins-rbac
+    parent: community-plugin-owners
+    description: Maintainers of community RBAC plugin
+    members:
+      - "AndrienkoAleksandr"
+      - "christoph-jerolimov"
+      - "divyanshiGupta"
+      - "PatAKnight"
+      - "dzemanov"
