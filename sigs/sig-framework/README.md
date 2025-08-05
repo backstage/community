@@ -17,7 +17,7 @@ SIG Framework (biweekly), at 16.00 hours on Tuesdays (4 pm) Europe/Stockholm
 time
 [(convert to your time zone)](https://dateful.com/convert/stockholm-sweden?t=16).
 
-- [Video Meeting Link](https://meet.google.com/gge-nvsb-dxa)
+- [Video Meeting Link](https://zoom-lfx.platform.linuxfoundation.org/meeting/99192325859?password=ea892384-c2d2-4c94-b3de-e92f4fdf7a6e)
 - [Meeting Notes](https://docs.google.com/document/d/1q6wavWvX6byPlO2q7KjD7CvGzZknHWQrqk8Q9il2T3I) -
   Suggest topics for the next meeting here
 - See the
