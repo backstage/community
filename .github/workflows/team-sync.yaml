@@ -1,0 +1,39 @@
+name: GitHub Teams Sync
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'github-teams/TEAMS/*.yaml'
+
+jobs:
+  team-sync:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+          cache: 'yarn'
+          cache-dependency-path: 'github-teams/yarn.lock'
+
+      - name: Install dependencies
+        run: |
+          cd github-teams
+          yarn install --frozen-lockfile
+
+      - name: Sync teams
+        run: |
+          cd github-teams
+          for config_file in TEAMS/*.yaml; do
+            if [ -f "$config_file" ]; then
+              echo "Running team sync for $config_file..."
+              node team-sync.js --config "$config_file"
+            fi
+          done
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_TEAM_SYNC_TOKEN }}
