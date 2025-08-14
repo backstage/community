@@ -9,6 +9,7 @@ in the [Backstage GitHub organization](https://github.com/backstage).
 - [Project Roles](#project-roles)
   - [Contributor](#contributor)
   - [Organization Member](#organization-member)
+  - [Reviewer](#reviewer)
   - [Plugin Maintainer](#plugin-maintainer)
   - [Project Area Maintainer](#project-area-maintainer)
   - [Core Maintainer](#core-maintainer)
@@ -148,6 +149,43 @@ Open an issue towards
 #### Privileges
 
 - Membership in the Backstage GitHub organization
+
+### Reviewer
+
+A Reviewer is a Contributor who has shown a commitment to the project by
+providing helpful and constructive feedback on pull requests. While anyone is
+encouraged to review pull requests, a Reviewer is formally recognized as a
+trusted voice in the review process. This role is a great way to contribute to
+the project and can be a stepping stone towards becoming a maintainer.
+
+#### Responsibilities
+
+- Actively review pull requests, providing constructive, kind, and helpful
+  feedback.
+- Follow the project's
+  [reviewing guide](https://github.com/backstage/backstage/blob/master/REVIEWING.md).
+- Help contributors get their PRs into a mergeable state.
+- Help triage issues and apply labels where appropriate.
+
+#### Requirements
+
+- Has a track record of providing high-quality, constructive reviews on several
+  pull requests across the project.
+- Demonstrates a good understanding of the project's coding conventions, values,
+  and best practices.
+- Is supportive of new and occasional contributors and helps get useful PRs in
+  shape to merge.
+
+#### Privileges
+
+- May be formally requested for reviews on specific PRs.
+- May be granted triage access to repositories to help manage issues and PRs.
+
+#### Becoming a Reviewer
+
+Contributors can be nominated by any Project Area or Core Maintainer. The
+nomination is discussed and approved by the maintainers of the relevant project
+area(s).
 
 ### Plugin Maintainer
 
