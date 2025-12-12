@@ -344,7 +344,7 @@ Maintainer.
 - Is able to exercise judgment for the good of the project, independent of their
   employer, friends, or team
 - Mentors other contributors
-- Can commit to spending at least 10 days per month working on the project
+- Can commit to spending at least 7 days per month working on the project
 
 #### Privileges
 
