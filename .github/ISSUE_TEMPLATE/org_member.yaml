@@ -64,7 +64,7 @@ body:
     attributes:
       label: 'What is your Discord username?'
       description: 'Let others know who you are in the Backstage community Discord'
-      placeholder: 'DiscordUser#1234'
+      placeholder: 'DiscordUser'
 
   - type: input
     id: organization
