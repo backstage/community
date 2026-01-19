@@ -181,7 +181,7 @@ removed from the group.
 
 - Is an Organization Member that has been following the requirements for that
   role.
-- Has submitted at least two pull requests reviews in the Backstage project with helpful feedback for the author of the pull request.
+- Has submitted at least two pull request reviews in the Backstage project with helpful feedback for the author of the pull request.
 - Keeps providing constructive and helpful reviews on pull requests, with at
   least 5 reviews per year.
 - Demonstrates an ongoing understanding of the project's coding conventions,
