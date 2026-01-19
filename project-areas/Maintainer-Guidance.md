@@ -30,63 +30,14 @@ open without having it marked as stale, you can add the `will-fix` label.
 
 ### Pull Request Management
 
-The division of pull requests among project areas is based on the GitHub reviewer
-feature, rather than labels or assignment. This is because it automatically
-works with the code owners feature, and also makes it possible for each team to
-decide if they want individual assignment of pull requests through the GitHub
-team settings.
+Project area maintainers in the main Backstage repository are responsible for
+reviewing pull requests towards their area, as outlined in
+[REVIEWING.md](https://github.com/backstage/backstage/blob/master/REVIEWING.md).
 
-To aid in the pull request review process there is a
-[Pull Request Reviews](https://github.com/orgs/backstage/projects/2) GitHub
-project, where all incoming pull requests are automatically added. The "All" tab
-shows all pull requests, while "For Me" shows only the ones that you have been
-requested to review. The rest of the tabs show pull requests for each individual
-project area.
-
-Note that the project area tabs will not show pull requests that have been
-assigned to an individual maintainer, they will instead show up in their "For
-Me" tab.
-
-### Pull Request Reviews
-
-When reviewing pull requests you should always use the "request changes" option
-if you are leaving a review where you would not like the pull request to be
-merged as is. This is both to clarify to the author that the pull request is not
-ready to be merged, but also to update the status of the pull request in the
-pull request review board, more on that below. If you simply want to contribute
-to the discussion in a pull request you can just leave a regular comment.
-
-Even though a pull request may only change code owned by a single project area,
-it may indirectly affect other project areas or the project as a whole. If this
-is the case, reviews should be requested from the additional maintainer teams,
-and labels can be added for extra visibility. These are a few example where this
-would be applicable:
-
-1. A pull request adds a new way of using capabilities provided by a different
-   area, for example if the TechDocs plugin started utilizing the scaffolder
-   APIs in a novel way that is not already established or documented.
-1. A pull request introduces new platform level technologies such as new code
-   generation tools. In this case the core maintainers should be requested for
-   review.
-
-### Merging Pull Requests
-
-External contributions are merged by the owner of the modified code once the
-pull request has been approved and all critical status checks have passed. If
-there are multiple owners and it is not obvious that the pull request belongs to
-any particular area, then any owner may merge the pull requests as soon as it
-has been approved by all owners.
-
-Pull requests that are made by a project area maintainer within the same area
-are generally merged by the pull request author, although it is up to the
-maintainers of the area to decide if they want to use a different process.
-
-The core maintainers are able to and may occasionally merge pull requests
-without approval from all code owners. This is to be avoided, but might
-sometimes be necessary for emergency fixes. It is also done for the "Version
-Packages" pull requests that are part of our automated release process. This
-means that project area maintainers do not need to approve these pull requests
-every week.
+Project area maintainers in other repositories are responsible for defining
+their own ways of working for pull request reviews. For example, the
+community-plugins repository has its own
+[Plugin Maintainer Guide](https://github.com/backstage/community-plugins/blob/main/docs/plugin-maintainers-guide.md).
 
 ### Release Process
 
@@ -184,7 +135,7 @@ section.
 A separate strategy that can be used to review pull requests is pair or mob
 reviews. Typically this takes the form of a scheduled or ad-hoc meeting where
 you walk through the pull request together. If the pull request is authored by
-one of the team members they would typically explain it to the rest of the group,
-or if it is an external pull request anyone can drive the walkthrough. This is
-particularly useful for complicated pull requests and can in many cases end up
-being a time saver compared to reviewing the pull request asynchronously.
+one of the team members they would typically explain it to the rest of the
+group, or if it is an external pull request anyone can drive the walkthrough.
+This is particularly useful for complicated pull requests and can in many cases
+end up being a time saver compared to reviewing the pull request asynchronously.

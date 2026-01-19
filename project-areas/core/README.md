@@ -17,7 +17,4 @@ This meeting is not currently open to external participation.
 
 ### Pull Request Reviews
 
-The core maintainers use the
-[randomized pull request assignment](../Maintainer-Guidance.md#randomized-pull-request-assignment)
-pull request review strategy. All incoming pull requests are distributed
-randomly and evenly among the maintainers.
+Core maintainers coordinate pull request reviews using the process outlined in [REVIEWING.md](https://github.com/backstage/backstage/blob/master/REVIEWING.md). They should focus on high priority pull requests in the global review board, especially those without clear ownership.

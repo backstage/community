@@ -158,34 +158,50 @@ encouraged to review pull requests, a Reviewer is formally recognized as a
 trusted voice in the review process. This role is a great way to contribute to
 the project and can be a stepping stone towards becoming a maintainer.
 
+Reviewers are members of the `@backstage/reviewers` GitHub team. Approving
+reviews from members of this team will add the `reviewer-approved` label to the
+pull request, greatly increasing its priority for review by owners of the
+project area. The `@backstage/reviewers` group does not grant write access or
+ability to merge pull requests.
+
+Members of the `@backstage/reviewers` group that submit reviews will also have
+their own pull requests prioritized higher. Reviewers that are found to be
+submitting low-quality or spammy reviews may have their priority penalized or be
+removed from the group.
+
 #### Responsibilities
 
 - Actively review pull requests, providing constructive, kind, and helpful
   feedback.
 - Follow the project's
   [reviewing guide](https://github.com/backstage/backstage/blob/master/REVIEWING.md).
-- Help contributors get their PRs into a mergeable state.
-- Help triage issues and apply labels where appropriate.
+- Help contributors get their pull requests into a mergeable state.
 
 #### Requirements
 
-- Has a track record of providing high-quality, constructive reviews on several
-  pull requests across the project.
-- Demonstrates a good understanding of the project's coding conventions, values,
-  and best practices.
-- Is supportive of new and occasional contributors and helps get useful PRs in
-  shape to merge.
+- Is an Organization Member that has been following the requirements for that
+  role.
+- Has submitted at least two pull requests reviews in the Backstage project with helpful feedback for the author of the pull request.
+- Keeps providing constructive and helpful reviews on pull requests, with at
+  least 5 reviews per year.
+- Demonstrates an ongoing understanding of the project's coding conventions,
+  values, and best practices.
 
 #### Privileges
 
-- May be formally requested for reviews on specific PRs.
-- May be granted triage access to repositories to help manage issues and PRs.
+- Membership in the `@backstage/reviewers` GitHub team.
+- Higher priority on own pull requests, based on review activity.
+- Access to the GitHub Project
+  [Review Board](https://github.com/orgs/backstage/projects/14/views/1).
+- May be granted triage access to repositories to help manage issues and PRs
+  (separate from the reviewers team).
 
 #### Becoming a Reviewer
 
-Contributors can be nominated by any Project Area or Core Maintainer. The
-nomination is discussed and approved by the maintainers of the relevant project
-area(s).
+Open an issue towards the community repository using the [reviewer request template](https://github.com/backstage/community/issues/new?template=reviewer.yaml&title=Reviewer%3A+%3Cyour-github-login%3E).
+This request should include links to at least two reviews that have been
+provided somewhere in the Backstage project. As long as the requirements are met, a Core Maintainer
+will grant Reviewer status through an addition to the `@backstage/reviewers` GitHub team.
 
 ### Plugin Maintainer
 

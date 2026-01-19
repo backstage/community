@@ -1,0 +1,53 @@
+name: 'Reviewer Request'
+description: 'A request to become a Backstage reviewer'
+title: 'Reviewer: <your-github-login>'
+labels:
+  - reviewer-request
+body:
+  - type: markdown
+    attributes:
+      value: >
+        ### Thank you for your interest and contributions to the Backstage project! 🙏
+
+  - type: markdown
+    attributes:
+      value: >
+        This form is used to request Reviewer status in the Backstage project,
+        as described by the [Backstage Governance](https://github.com/backstage/community/blob/master/GOVERNANCE.md#reviewer).
+        In addition to becoming a member of the `@backstage/reviewers` team, this role also
+        comes with the responsibilities and requirements that are described in the governance.
+
+  - type: markdown
+    attributes:
+      value: <br>
+
+  - type: textarea
+    id: reviewer-examples
+    validations:
+      required: true
+    attributes:
+      label: 'Reviewer examples'
+      description: 'Please link to at least two reviews you have provided as an outside collaborator in the Backstage project'
+      placeholder: 'Link to pull request reviews'
+
+  - type: textarea
+    id: other
+    attributes:
+      label: 'Any other context that you wish to share'
+
+  - type: checkboxes
+    id: read-reviewer-responsibilities
+    attributes:
+      label: 'Have you read the Reviewer responsibilities?'
+      options:
+        - label: >
+            I have read and understood the [Reviewer responsibilities](https://github.com/backstage/community/blob/master/GOVERNANCE.md#reviewer).
+          required: true
+
+  - type: checkboxes
+    id: already-org-member
+    attributes:
+      label: 'Are you already an Organization Member?'
+      options:
+        - label: 'I am already an Organization Member.'
+          required: true
