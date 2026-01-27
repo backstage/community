@@ -30,7 +30,7 @@ body:
       options:
         - 1. I have been contributing for at least 3 months and wish to become a standalone org-member
         - 2. The team that I am a member of in my organization are maintainers of a Project Area in Backstage
-        - 3. I am a maintainer of a plugin the Backstage Community Plugins Repository
+        - 3. I am a maintainer of a plugin in the Backstage Community Plugins Repository
 
   - type: markdown
     attributes:
